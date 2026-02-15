@@ -50,15 +50,28 @@ export default async function PatternPage({ params }: { params: Promise<{ slug: 
             </div>
 
             {/* Header */}
-            <div className="mb-8">
-                <div className="flex flex-wrap items-center gap-2 mb-3">
-                    <span className={`px-3 py-1 rounded-lg text-sm font-medium border ${biasColor[p.bias]}`}>{p.bias}</span>
-                    <span className={`px-3 py-1 rounded-lg text-sm font-medium ${relColor[p.reliability]}`}>Tier {p.reliability}</span>
-                    <span className="px-3 py-1 rounded-lg text-sm font-medium bg-gray-700/50 text-gray-400">{p.category}</span>
-                    <span className="px-3 py-1 rounded-lg text-sm font-medium bg-gray-700/50 text-gray-400">{p.context}</span>
+            <div className="mb-8 grid md:grid-cols-[1fr_400px] gap-8 items-start">
+                <div>
+                    <div className="flex flex-wrap items-center gap-2 mb-3">
+                        <span className={`px-3 py-1 rounded-lg text-sm font-medium border ${biasColor[p.bias]}`}>{p.bias}</span>
+                        <span className={`px-3 py-1 rounded-lg text-sm font-medium ${relColor[p.reliability]}`}>Tier {p.reliability}</span>
+                        <span className="px-3 py-1 rounded-lg text-sm font-medium bg-gray-700/50 text-gray-400">{p.category}</span>
+                        <span className="px-3 py-1 rounded-lg text-sm font-medium bg-gray-700/50 text-gray-400">{p.context}</span>
+                    </div>
+                    <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">{p.name}</h1>
+                    <p className="text-lg text-gray-400">{p.short_description}</p>
                 </div>
-                <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">{p.name}</h1>
-                <p className="text-lg text-gray-400">{p.short_description}</p>
+                {p.examples?.[0]?.image && (
+                    <div className="aspect-video relative rounded-xl overflow-hidden border border-gray-700/30 shadow-2xl bg-gray-900 group">
+                        <Image
+                            src={p.examples[0].image}
+                            alt={`${p.name} example chart`}
+                            fill
+                            className="object-contain p-2"
+                            unoptimized
+                        />
+                    </div>
+                )}
             </div>
 
             <div className="space-y-6">
