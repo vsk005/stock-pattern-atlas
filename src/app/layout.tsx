@@ -1,3 +1,4 @@
+import Link from "next/link";
 import type { Metadata } from "next";
 import "./globals.css";
 
@@ -23,10 +24,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <nav className="sticky top-0 z-50 bg-gray-950/80 backdrop-blur-xl border-b border-gray-800/50">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center justify-between h-16">
-              <a href="/" className="flex items-center gap-2.5 group">
+              <Link href="/" className="flex items-center gap-2.5 group">
                 <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-emerald-400 to-cyan-500 flex items-center justify-center text-gray-950 font-bold text-sm">SP</div>
                 <span className="text-lg font-bold bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">Stock Pattern Atlas</span>
-              </a>
+              </Link>
               <div className="hidden md:flex items-center gap-1">
                 {[
                   { href: "/", label: "Home" },
@@ -35,7 +36,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                   { href: "/glossary", label: "Glossary" },
                   { href: "/about", label: "About" },
                 ].map((link) => (
-                  <a key={link.href} href={link.href} className="px-3 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-gray-800/50 transition-all">{link.label}</a>
+                  <Link key={link.href} href={link.href} className="px-3 py-2 rounded-lg text-sm font-medium text-gray-400 hover:text-white hover:bg-gray-800/50 transition-all">{link.label}</Link>
                 ))}
               </div>
               <div className="md:hidden">
@@ -45,7 +46,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                   </summary>
                   <div className="absolute right-0 mt-2 w-48 bg-gray-900 rounded-xl border border-gray-800 shadow-2xl p-2">
                     {["/", "/library", "/compare", "/glossary", "/about"].map((href, i) => (
-                      <a key={href} href={href} className="block px-3 py-2 rounded-lg text-sm text-gray-300 hover:bg-gray-800 hover:text-white">{["Home", "Library", "Compare", "Glossary", "About"][i]}</a>
+                      <Link key={href} href={href} className="block px-3 py-2 rounded-lg text-sm text-gray-300 hover:bg-gray-800 hover:text-white">{["Home", "Library", "Compare", "Glossary", "About"][i]}</Link>
                     ))}
                   </div>
                 </details>
