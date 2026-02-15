@@ -176,7 +176,7 @@ const patterns = defs.map((d, i) => {
         examples.push({
             ticker: t, timeframe: tf, start: dates[si], end: dates[ei],
             caption: `${name} pattern on ${t} ${tf} chart — ${short.toLowerCase()}`,
-            image: `/examples/${slug}/${t}_${tf}_${dates[si]}_${dates[ei]}.png`
+            image: `/examples/${slug}/${t}_${tf}_${dates[si]}_${dates[ei]}.svg`
         });
     }
 

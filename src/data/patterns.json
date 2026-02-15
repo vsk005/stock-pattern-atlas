@@ -67,7 +67,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Hammer pattern on AAPL 1D chart — single candle with small body and long lower shadow signaling bottom reversal",
-        "image": "/examples/hammer/AAPL_1D_2024-01-15_2024-02-01.png"
+        "image": "/examples/hammer/AAPL_1D_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "MSFT",
@@ -75,7 +75,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Hammer pattern on MSFT 4H chart — single candle with small body and long lower shadow signaling bottom reversal",
-        "image": "/examples/hammer/MSFT_4H_2024-02-01_2024-02-15.png"
+        "image": "/examples/hammer/MSFT_4H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "GOOGL",
@@ -83,7 +83,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Hammer pattern on GOOGL 1H chart — single candle with small body and long lower shadow signaling bottom reversal",
-        "image": "/examples/hammer/GOOGL_1H_2024-02-15_2024-03-01.png"
+        "image": "/examples/hammer/GOOGL_1H_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -161,7 +161,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Inverted Hammer pattern on AMZN 1D chart — single candle with long upper shadow at bottom, hinting bullish reversal",
-        "image": "/examples/inverted-hammer/AMZN_1D_2024-02-01_2024-02-15.png"
+        "image": "/examples/inverted-hammer/AMZN_1D_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "TSLA",
@@ -169,7 +169,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Inverted Hammer pattern on TSLA 4H chart — single candle with long upper shadow at bottom, hinting bullish reversal",
-        "image": "/examples/inverted-hammer/TSLA_4H_2024-02-15_2024-03-01.png"
+        "image": "/examples/inverted-hammer/TSLA_4H_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "NVDA",
@@ -177,7 +177,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Inverted Hammer pattern on NVDA 1H chart — single candle with long upper shadow at bottom, hinting bullish reversal",
-        "image": "/examples/inverted-hammer/NVDA_1H_2024-03-01_2024-03-15.png"
+        "image": "/examples/inverted-hammer/NVDA_1H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "META",
@@ -185,7 +185,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Inverted Hammer pattern on META 15m chart — single candle with long upper shadow at bottom, hinting bullish reversal",
-        "image": "/examples/inverted-hammer/META_15m_2024-03-15_2024-04-01.png"
+        "image": "/examples/inverted-hammer/META_15m_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -263,7 +263,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Shooting Star pattern on META 1D chart — single candle with long upper shadow at top, signaling bearish reversal",
-        "image": "/examples/shooting-star/META_1D_2024-02-15_2024-03-01.png"
+        "image": "/examples/shooting-star/META_1D_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "JPM",
@@ -271,7 +271,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Shooting Star pattern on JPM 4H chart — single candle with long upper shadow at top, signaling bearish reversal",
-        "image": "/examples/shooting-star/JPM_4H_2024-03-01_2024-03-15.png"
+        "image": "/examples/shooting-star/JPM_4H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "V",
@@ -279,7 +279,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Shooting Star pattern on V 1H chart — single candle with long upper shadow at top, signaling bearish reversal",
-        "image": "/examples/shooting-star/V_1H_2024-03-15_2024-04-01.png"
+        "image": "/examples/shooting-star/V_1H_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -357,7 +357,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Hanging Man pattern on DIS 1D chart — hammer shape after uptrend warning of bearish reversal",
-        "image": "/examples/hanging-man/DIS_1D_2024-03-01_2024-03-15.png"
+        "image": "/examples/hanging-man/DIS_1D_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "SPY",
@@ -365,7 +365,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Hanging Man pattern on SPY 4H chart — hammer shape after uptrend warning of bearish reversal",
-        "image": "/examples/hanging-man/SPY_4H_2024-03-15_2024-04-01.png"
+        "image": "/examples/hanging-man/SPY_4H_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "QQQ",
@@ -373,7 +373,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Hanging Man pattern on QQQ 1H chart — hammer shape after uptrend warning of bearish reversal",
-        "image": "/examples/hanging-man/QQQ_1H_2024-04-01_2024-05-01.png"
+        "image": "/examples/hanging-man/QQQ_1H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "AMD",
@@ -381,7 +381,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Hanging Man pattern on AMD 15m chart — hammer shape after uptrend warning of bearish reversal",
-        "image": "/examples/hanging-man/AMD_15m_2024-05-01_2024-06-01.png"
+        "image": "/examples/hanging-man/AMD_15m_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -458,7 +458,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Doji pattern on AMD 1D chart — open equals close showing market indecision",
-        "image": "/examples/doji/AMD_1D_2024-03-15_2024-04-01.png"
+        "image": "/examples/doji/AMD_1D_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "BA",
@@ -466,7 +466,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Doji pattern on BA 4H chart — open equals close showing market indecision",
-        "image": "/examples/doji/BA_4H_2024-04-01_2024-05-01.png"
+        "image": "/examples/doji/BA_4H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "NFLX",
@@ -474,7 +474,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Doji pattern on NFLX 1H chart — open equals close showing market indecision",
-        "image": "/examples/doji/NFLX_1H_2024-05-01_2024-06-01.png"
+        "image": "/examples/doji/NFLX_1H_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -552,7 +552,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Dragonfly Doji pattern on CRM 1D chart — doji with long lower shadow showing bullish rejection",
-        "image": "/examples/dragonfly-doji/CRM_1D_2024-04-01_2024-05-01.png"
+        "image": "/examples/dragonfly-doji/CRM_1D_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "PYPL",
@@ -560,7 +560,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Dragonfly Doji pattern on PYPL 4H chart — doji with long lower shadow showing bullish rejection",
-        "image": "/examples/dragonfly-doji/PYPL_4H_2024-05-01_2024-06-01.png"
+        "image": "/examples/dragonfly-doji/PYPL_4H_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "INTC",
@@ -568,7 +568,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Dragonfly Doji pattern on INTC 1H chart — doji with long lower shadow showing bullish rejection",
-        "image": "/examples/dragonfly-doji/INTC_1H_2024-06-01_2024-07-01.png"
+        "image": "/examples/dragonfly-doji/INTC_1H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "WMT",
@@ -576,7 +576,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Dragonfly Doji pattern on WMT 15m chart — doji with long lower shadow showing bullish rejection",
-        "image": "/examples/dragonfly-doji/WMT_15m_2024-07-01_2024-08-01.png"
+        "image": "/examples/dragonfly-doji/WMT_15m_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -654,7 +654,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Gravestone Doji pattern on WMT 1D chart — doji with long upper shadow showing bearish rejection",
-        "image": "/examples/gravestone-doji/WMT_1D_2024-05-01_2024-06-01.png"
+        "image": "/examples/gravestone-doji/WMT_1D_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "HD",
@@ -662,7 +662,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Gravestone Doji pattern on HD 4H chart — doji with long upper shadow showing bearish rejection",
-        "image": "/examples/gravestone-doji/HD_4H_2024-06-01_2024-07-01.png"
+        "image": "/examples/gravestone-doji/HD_4H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "AAPL",
@@ -670,7 +670,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Gravestone Doji pattern on AAPL 1H chart — doji with long upper shadow showing bearish rejection",
-        "image": "/examples/gravestone-doji/AAPL_1H_2024-07-01_2024-08-01.png"
+        "image": "/examples/gravestone-doji/AAPL_1H_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -747,7 +747,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Long-Legged Doji pattern on MSFT 1D chart — doji with long shadows on both sides showing extreme indecision",
-        "image": "/examples/long-legged-doji/MSFT_1D_2024-06-01_2024-07-01.png"
+        "image": "/examples/long-legged-doji/MSFT_1D_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "GOOGL",
@@ -755,7 +755,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Long-Legged Doji pattern on GOOGL 4H chart — doji with long shadows on both sides showing extreme indecision",
-        "image": "/examples/long-legged-doji/GOOGL_4H_2024-07-01_2024-08-01.png"
+        "image": "/examples/long-legged-doji/GOOGL_4H_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "AMZN",
@@ -763,7 +763,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Long-Legged Doji pattern on AMZN 1H chart — doji with long shadows on both sides showing extreme indecision",
-        "image": "/examples/long-legged-doji/AMZN_1H_2024-08-01_2024-08-01.png"
+        "image": "/examples/long-legged-doji/AMZN_1H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "TSLA",
@@ -771,7 +771,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Long-Legged Doji pattern on TSLA 15m chart — doji with long shadows on both sides showing extreme indecision",
-        "image": "/examples/long-legged-doji/TSLA_15m_2024-01-15_2024-02-01.png"
+        "image": "/examples/long-legged-doji/TSLA_15m_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -848,7 +848,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Spinning Top pattern on TSLA 1D chart — small body with moderate shadows showing indecision",
-        "image": "/examples/spinning-top/TSLA_1D_2024-07-01_2024-08-01.png"
+        "image": "/examples/spinning-top/TSLA_1D_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "NVDA",
@@ -856,7 +856,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Spinning Top pattern on NVDA 4H chart — small body with moderate shadows showing indecision",
-        "image": "/examples/spinning-top/NVDA_4H_2024-08-01_2024-08-01.png"
+        "image": "/examples/spinning-top/NVDA_4H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "META",
@@ -864,7 +864,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Spinning Top pattern on META 1H chart — small body with moderate shadows showing indecision",
-        "image": "/examples/spinning-top/META_1H_2024-01-15_2024-02-01.png"
+        "image": "/examples/spinning-top/META_1H_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -942,7 +942,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Marubozu (Bullish) pattern on JPM 1D chart — full bullish body with no shadows showing buyer dominance",
-        "image": "/examples/bullish-marubozu/JPM_1D_2024-08-01_2024-08-01.png"
+        "image": "/examples/bullish-marubozu/JPM_1D_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "V",
@@ -950,7 +950,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Marubozu (Bullish) pattern on V 4H chart — full bullish body with no shadows showing buyer dominance",
-        "image": "/examples/bullish-marubozu/V_4H_2024-01-15_2024-02-01.png"
+        "image": "/examples/bullish-marubozu/V_4H_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "DIS",
@@ -958,7 +958,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Marubozu (Bullish) pattern on DIS 1H chart — full bullish body with no shadows showing buyer dominance",
-        "image": "/examples/bullish-marubozu/DIS_1H_2024-02-01_2024-02-15.png"
+        "image": "/examples/bullish-marubozu/DIS_1H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "SPY",
@@ -966,7 +966,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Marubozu (Bullish) pattern on SPY 15m chart — full bullish body with no shadows showing buyer dominance",
-        "image": "/examples/bullish-marubozu/SPY_15m_2024-02-15_2024-03-01.png"
+        "image": "/examples/bullish-marubozu/SPY_15m_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -1044,7 +1044,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Marubozu (Bearish) pattern on SPY 1D chart — full bearish body with no shadows showing seller dominance",
-        "image": "/examples/bearish-marubozu/SPY_1D_2024-01-15_2024-02-01.png"
+        "image": "/examples/bearish-marubozu/SPY_1D_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "QQQ",
@@ -1052,7 +1052,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Marubozu (Bearish) pattern on QQQ 4H chart — full bearish body with no shadows showing seller dominance",
-        "image": "/examples/bearish-marubozu/QQQ_4H_2024-02-01_2024-02-15.png"
+        "image": "/examples/bearish-marubozu/QQQ_4H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "AMD",
@@ -1060,7 +1060,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Marubozu (Bearish) pattern on AMD 1H chart — full bearish body with no shadows showing seller dominance",
-        "image": "/examples/bearish-marubozu/AMD_1H_2024-02-15_2024-03-01.png"
+        "image": "/examples/bearish-marubozu/AMD_1H_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -1138,7 +1138,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Belt Hold (Bullish) pattern on BA 1D chart — long bullish candle opening at low after downtrend",
-        "image": "/examples/bullish-belt-hold/BA_1D_2024-02-01_2024-02-15.png"
+        "image": "/examples/bullish-belt-hold/BA_1D_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "NFLX",
@@ -1146,7 +1146,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Belt Hold (Bullish) pattern on NFLX 4H chart — long bullish candle opening at low after downtrend",
-        "image": "/examples/bullish-belt-hold/NFLX_4H_2024-02-15_2024-03-01.png"
+        "image": "/examples/bullish-belt-hold/NFLX_4H_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "CRM",
@@ -1154,7 +1154,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Belt Hold (Bullish) pattern on CRM 1H chart — long bullish candle opening at low after downtrend",
-        "image": "/examples/bullish-belt-hold/CRM_1H_2024-03-01_2024-03-15.png"
+        "image": "/examples/bullish-belt-hold/CRM_1H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "PYPL",
@@ -1162,7 +1162,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Belt Hold (Bullish) pattern on PYPL 15m chart — long bullish candle opening at low after downtrend",
-        "image": "/examples/bullish-belt-hold/PYPL_15m_2024-03-15_2024-04-01.png"
+        "image": "/examples/bullish-belt-hold/PYPL_15m_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -1240,7 +1240,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Belt Hold (Bearish) pattern on PYPL 1D chart — long bearish candle opening at high after uptrend",
-        "image": "/examples/bearish-belt-hold/PYPL_1D_2024-02-15_2024-03-01.png"
+        "image": "/examples/bearish-belt-hold/PYPL_1D_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "INTC",
@@ -1248,7 +1248,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Belt Hold (Bearish) pattern on INTC 4H chart — long bearish candle opening at high after uptrend",
-        "image": "/examples/bearish-belt-hold/INTC_4H_2024-03-01_2024-03-15.png"
+        "image": "/examples/bearish-belt-hold/INTC_4H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "WMT",
@@ -1256,7 +1256,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Belt Hold (Bearish) pattern on WMT 1H chart — long bearish candle opening at high after uptrend",
-        "image": "/examples/bearish-belt-hold/WMT_1H_2024-03-15_2024-04-01.png"
+        "image": "/examples/bearish-belt-hold/WMT_1H_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -1333,7 +1333,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "High Wave Candle pattern on HD 1D chart — very long shadows with small body showing extreme volatility",
-        "image": "/examples/high-wave-candle/HD_1D_2024-03-01_2024-03-15.png"
+        "image": "/examples/high-wave-candle/HD_1D_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "AAPL",
@@ -1341,7 +1341,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "High Wave Candle pattern on AAPL 4H chart — very long shadows with small body showing extreme volatility",
-        "image": "/examples/high-wave-candle/AAPL_4H_2024-03-15_2024-04-01.png"
+        "image": "/examples/high-wave-candle/AAPL_4H_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "MSFT",
@@ -1349,7 +1349,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "High Wave Candle pattern on MSFT 1H chart — very long shadows with small body showing extreme volatility",
-        "image": "/examples/high-wave-candle/MSFT_1H_2024-04-01_2024-05-01.png"
+        "image": "/examples/high-wave-candle/MSFT_1H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "GOOGL",
@@ -1357,7 +1357,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "High Wave Candle pattern on GOOGL 15m chart — very long shadows with small body showing extreme volatility",
-        "image": "/examples/high-wave-candle/GOOGL_15m_2024-05-01_2024-06-01.png"
+        "image": "/examples/high-wave-candle/GOOGL_15m_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -1434,7 +1434,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Rickshaw Man pattern on GOOGL 1D chart — long-legged doji with body exactly centered",
-        "image": "/examples/rickshaw-man/GOOGL_1D_2024-03-15_2024-04-01.png"
+        "image": "/examples/rickshaw-man/GOOGL_1D_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "AMZN",
@@ -1442,7 +1442,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Rickshaw Man pattern on AMZN 4H chart — long-legged doji with body exactly centered",
-        "image": "/examples/rickshaw-man/AMZN_4H_2024-04-01_2024-05-01.png"
+        "image": "/examples/rickshaw-man/AMZN_4H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "TSLA",
@@ -1450,7 +1450,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Rickshaw Man pattern on TSLA 1H chart — long-legged doji with body exactly centered",
-        "image": "/examples/rickshaw-man/TSLA_1H_2024-05-01_2024-06-01.png"
+        "image": "/examples/rickshaw-man/TSLA_1H_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -1528,7 +1528,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Bullish Engulfing pattern on NVDA 1D chart — second bullish candle completely engulfs prior bearish candle",
-        "image": "/examples/bullish-engulfing/NVDA_1D_2024-04-01_2024-05-01.png"
+        "image": "/examples/bullish-engulfing/NVDA_1D_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "META",
@@ -1536,7 +1536,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Bullish Engulfing pattern on META 4H chart — second bullish candle completely engulfs prior bearish candle",
-        "image": "/examples/bullish-engulfing/META_4H_2024-05-01_2024-06-01.png"
+        "image": "/examples/bullish-engulfing/META_4H_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "JPM",
@@ -1544,7 +1544,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Bullish Engulfing pattern on JPM 1H chart — second bullish candle completely engulfs prior bearish candle",
-        "image": "/examples/bullish-engulfing/JPM_1H_2024-06-01_2024-07-01.png"
+        "image": "/examples/bullish-engulfing/JPM_1H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "V",
@@ -1552,7 +1552,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Bullish Engulfing pattern on V 15m chart — second bullish candle completely engulfs prior bearish candle",
-        "image": "/examples/bullish-engulfing/V_15m_2024-07-01_2024-08-01.png"
+        "image": "/examples/bullish-engulfing/V_15m_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -1630,7 +1630,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Bearish Engulfing pattern on V 1D chart — second bearish candle completely engulfs prior bullish candle",
-        "image": "/examples/bearish-engulfing/V_1D_2024-05-01_2024-06-01.png"
+        "image": "/examples/bearish-engulfing/V_1D_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "DIS",
@@ -1638,7 +1638,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Bearish Engulfing pattern on DIS 4H chart — second bearish candle completely engulfs prior bullish candle",
-        "image": "/examples/bearish-engulfing/DIS_4H_2024-06-01_2024-07-01.png"
+        "image": "/examples/bearish-engulfing/DIS_4H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "SPY",
@@ -1646,7 +1646,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Bearish Engulfing pattern on SPY 1H chart — second bearish candle completely engulfs prior bullish candle",
-        "image": "/examples/bearish-engulfing/SPY_1H_2024-07-01_2024-08-01.png"
+        "image": "/examples/bearish-engulfing/SPY_1H_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -1724,7 +1724,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Bullish Harami pattern on QQQ 1D chart — small bullish candle contained within prior large bearish candle",
-        "image": "/examples/bullish-harami/QQQ_1D_2024-06-01_2024-07-01.png"
+        "image": "/examples/bullish-harami/QQQ_1D_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "AMD",
@@ -1732,7 +1732,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Bullish Harami pattern on AMD 4H chart — small bullish candle contained within prior large bearish candle",
-        "image": "/examples/bullish-harami/AMD_4H_2024-07-01_2024-08-01.png"
+        "image": "/examples/bullish-harami/AMD_4H_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "BA",
@@ -1740,7 +1740,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Bullish Harami pattern on BA 1H chart — small bullish candle contained within prior large bearish candle",
-        "image": "/examples/bullish-harami/BA_1H_2024-08-01_2024-08-01.png"
+        "image": "/examples/bullish-harami/BA_1H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "NFLX",
@@ -1748,7 +1748,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Bullish Harami pattern on NFLX 15m chart — small bullish candle contained within prior large bearish candle",
-        "image": "/examples/bullish-harami/NFLX_15m_2024-01-15_2024-02-01.png"
+        "image": "/examples/bullish-harami/NFLX_15m_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -1826,7 +1826,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Bearish Harami pattern on NFLX 1D chart — small bearish candle contained within prior large bullish candle",
-        "image": "/examples/bearish-harami/NFLX_1D_2024-07-01_2024-08-01.png"
+        "image": "/examples/bearish-harami/NFLX_1D_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "CRM",
@@ -1834,7 +1834,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Bearish Harami pattern on CRM 4H chart — small bearish candle contained within prior large bullish candle",
-        "image": "/examples/bearish-harami/CRM_4H_2024-08-01_2024-08-01.png"
+        "image": "/examples/bearish-harami/CRM_4H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "PYPL",
@@ -1842,7 +1842,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Bearish Harami pattern on PYPL 1H chart — small bearish candle contained within prior large bullish candle",
-        "image": "/examples/bearish-harami/PYPL_1H_2024-01-15_2024-02-01.png"
+        "image": "/examples/bearish-harami/PYPL_1H_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -1920,7 +1920,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Harami Cross (Bullish) pattern on INTC 1D chart — doji contained within prior bearish candle body",
-        "image": "/examples/bullish-harami-cross/INTC_1D_2024-08-01_2024-08-01.png"
+        "image": "/examples/bullish-harami-cross/INTC_1D_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "WMT",
@@ -1928,7 +1928,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Harami Cross (Bullish) pattern on WMT 4H chart — doji contained within prior bearish candle body",
-        "image": "/examples/bullish-harami-cross/WMT_4H_2024-01-15_2024-02-01.png"
+        "image": "/examples/bullish-harami-cross/WMT_4H_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "HD",
@@ -1936,7 +1936,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Harami Cross (Bullish) pattern on HD 1H chart — doji contained within prior bearish candle body",
-        "image": "/examples/bullish-harami-cross/HD_1H_2024-02-01_2024-02-15.png"
+        "image": "/examples/bullish-harami-cross/HD_1H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "AAPL",
@@ -1944,7 +1944,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Harami Cross (Bullish) pattern on AAPL 15m chart — doji contained within prior bearish candle body",
-        "image": "/examples/bullish-harami-cross/AAPL_15m_2024-02-15_2024-03-01.png"
+        "image": "/examples/bullish-harami-cross/AAPL_15m_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -2022,7 +2022,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Harami Cross (Bearish) pattern on AAPL 1D chart — doji contained within prior bullish candle body",
-        "image": "/examples/bearish-harami-cross/AAPL_1D_2024-01-15_2024-02-01.png"
+        "image": "/examples/bearish-harami-cross/AAPL_1D_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "MSFT",
@@ -2030,7 +2030,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Harami Cross (Bearish) pattern on MSFT 4H chart — doji contained within prior bullish candle body",
-        "image": "/examples/bearish-harami-cross/MSFT_4H_2024-02-01_2024-02-15.png"
+        "image": "/examples/bearish-harami-cross/MSFT_4H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "GOOGL",
@@ -2038,7 +2038,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Harami Cross (Bearish) pattern on GOOGL 1H chart — doji contained within prior bullish candle body",
-        "image": "/examples/bearish-harami-cross/GOOGL_1H_2024-02-15_2024-03-01.png"
+        "image": "/examples/bearish-harami-cross/GOOGL_1H_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -2116,7 +2116,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Tweezer Tops pattern on AMZN 1D chart — two candles with matching highs at resistance",
-        "image": "/examples/tweezer-tops/AMZN_1D_2024-02-01_2024-02-15.png"
+        "image": "/examples/tweezer-tops/AMZN_1D_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "TSLA",
@@ -2124,7 +2124,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Tweezer Tops pattern on TSLA 4H chart — two candles with matching highs at resistance",
-        "image": "/examples/tweezer-tops/TSLA_4H_2024-02-15_2024-03-01.png"
+        "image": "/examples/tweezer-tops/TSLA_4H_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "NVDA",
@@ -2132,7 +2132,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Tweezer Tops pattern on NVDA 1H chart — two candles with matching highs at resistance",
-        "image": "/examples/tweezer-tops/NVDA_1H_2024-03-01_2024-03-15.png"
+        "image": "/examples/tweezer-tops/NVDA_1H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "META",
@@ -2140,7 +2140,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Tweezer Tops pattern on META 15m chart — two candles with matching highs at resistance",
-        "image": "/examples/tweezer-tops/META_15m_2024-03-15_2024-04-01.png"
+        "image": "/examples/tweezer-tops/META_15m_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -2218,7 +2218,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Tweezer Bottoms pattern on META 1D chart — two candles with matching lows at support",
-        "image": "/examples/tweezer-bottoms/META_1D_2024-02-15_2024-03-01.png"
+        "image": "/examples/tweezer-bottoms/META_1D_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "JPM",
@@ -2226,7 +2226,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Tweezer Bottoms pattern on JPM 4H chart — two candles with matching lows at support",
-        "image": "/examples/tweezer-bottoms/JPM_4H_2024-03-01_2024-03-15.png"
+        "image": "/examples/tweezer-bottoms/JPM_4H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "V",
@@ -2234,7 +2234,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Tweezer Bottoms pattern on V 1H chart — two candles with matching lows at support",
-        "image": "/examples/tweezer-bottoms/V_1H_2024-03-15_2024-04-01.png"
+        "image": "/examples/tweezer-bottoms/V_1H_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -2312,7 +2312,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Piercing Line pattern on DIS 1D chart — bullish candle opens below prior low and closes above midpoint",
-        "image": "/examples/piercing-line/DIS_1D_2024-03-01_2024-03-15.png"
+        "image": "/examples/piercing-line/DIS_1D_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "SPY",
@@ -2320,7 +2320,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Piercing Line pattern on SPY 4H chart — bullish candle opens below prior low and closes above midpoint",
-        "image": "/examples/piercing-line/SPY_4H_2024-03-15_2024-04-01.png"
+        "image": "/examples/piercing-line/SPY_4H_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "QQQ",
@@ -2328,7 +2328,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Piercing Line pattern on QQQ 1H chart — bullish candle opens below prior low and closes above midpoint",
-        "image": "/examples/piercing-line/QQQ_1H_2024-04-01_2024-05-01.png"
+        "image": "/examples/piercing-line/QQQ_1H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "AMD",
@@ -2336,7 +2336,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Piercing Line pattern on AMD 15m chart — bullish candle opens below prior low and closes above midpoint",
-        "image": "/examples/piercing-line/AMD_15m_2024-05-01_2024-06-01.png"
+        "image": "/examples/piercing-line/AMD_15m_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -2414,7 +2414,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Dark Cloud Cover pattern on AMD 1D chart — bearish candle opens above prior high and closes below midpoint",
-        "image": "/examples/dark-cloud-cover/AMD_1D_2024-03-15_2024-04-01.png"
+        "image": "/examples/dark-cloud-cover/AMD_1D_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "BA",
@@ -2422,7 +2422,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Dark Cloud Cover pattern on BA 4H chart — bearish candle opens above prior high and closes below midpoint",
-        "image": "/examples/dark-cloud-cover/BA_4H_2024-04-01_2024-05-01.png"
+        "image": "/examples/dark-cloud-cover/BA_4H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "NFLX",
@@ -2430,7 +2430,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Dark Cloud Cover pattern on NFLX 1H chart — bearish candle opens above prior high and closes below midpoint",
-        "image": "/examples/dark-cloud-cover/NFLX_1H_2024-05-01_2024-06-01.png"
+        "image": "/examples/dark-cloud-cover/NFLX_1H_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -2508,7 +2508,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Bullish Counterattack pattern on CRM 1D chart — bullish candle closes at same level as prior bearish close",
-        "image": "/examples/bullish-counterattack/CRM_1D_2024-04-01_2024-05-01.png"
+        "image": "/examples/bullish-counterattack/CRM_1D_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "PYPL",
@@ -2516,7 +2516,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Bullish Counterattack pattern on PYPL 4H chart — bullish candle closes at same level as prior bearish close",
-        "image": "/examples/bullish-counterattack/PYPL_4H_2024-05-01_2024-06-01.png"
+        "image": "/examples/bullish-counterattack/PYPL_4H_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "INTC",
@@ -2524,7 +2524,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Bullish Counterattack pattern on INTC 1H chart — bullish candle closes at same level as prior bearish close",
-        "image": "/examples/bullish-counterattack/INTC_1H_2024-06-01_2024-07-01.png"
+        "image": "/examples/bullish-counterattack/INTC_1H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "WMT",
@@ -2532,7 +2532,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Bullish Counterattack pattern on WMT 15m chart — bullish candle closes at same level as prior bearish close",
-        "image": "/examples/bullish-counterattack/WMT_15m_2024-07-01_2024-08-01.png"
+        "image": "/examples/bullish-counterattack/WMT_15m_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -2610,7 +2610,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Bearish Counterattack pattern on WMT 1D chart — bearish candle closes at same level as prior bullish close",
-        "image": "/examples/bearish-counterattack/WMT_1D_2024-05-01_2024-06-01.png"
+        "image": "/examples/bearish-counterattack/WMT_1D_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "HD",
@@ -2618,7 +2618,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Bearish Counterattack pattern on HD 4H chart — bearish candle closes at same level as prior bullish close",
-        "image": "/examples/bearish-counterattack/HD_4H_2024-06-01_2024-07-01.png"
+        "image": "/examples/bearish-counterattack/HD_4H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "AAPL",
@@ -2626,7 +2626,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Bearish Counterattack pattern on AAPL 1H chart — bearish candle closes at same level as prior bullish close",
-        "image": "/examples/bearish-counterattack/AAPL_1H_2024-07-01_2024-08-01.png"
+        "image": "/examples/bearish-counterattack/AAPL_1H_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -2704,7 +2704,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "On-Neck Line pattern on MSFT 1D chart — bearish continuation where second candle closes at prior low",
-        "image": "/examples/on-neck-line/MSFT_1D_2024-06-01_2024-07-01.png"
+        "image": "/examples/on-neck-line/MSFT_1D_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "GOOGL",
@@ -2712,7 +2712,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "On-Neck Line pattern on GOOGL 4H chart — bearish continuation where second candle closes at prior low",
-        "image": "/examples/on-neck-line/GOOGL_4H_2024-07-01_2024-08-01.png"
+        "image": "/examples/on-neck-line/GOOGL_4H_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "AMZN",
@@ -2720,7 +2720,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "On-Neck Line pattern on AMZN 1H chart — bearish continuation where second candle closes at prior low",
-        "image": "/examples/on-neck-line/AMZN_1H_2024-08-01_2024-08-01.png"
+        "image": "/examples/on-neck-line/AMZN_1H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "TSLA",
@@ -2728,7 +2728,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "On-Neck Line pattern on TSLA 15m chart — bearish continuation where second candle closes at prior low",
-        "image": "/examples/on-neck-line/TSLA_15m_2024-01-15_2024-02-01.png"
+        "image": "/examples/on-neck-line/TSLA_15m_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -2806,7 +2806,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "In-Neck Line pattern on TSLA 1D chart — similar to on-neck but second candle closes slightly into prior body",
-        "image": "/examples/in-neck-line/TSLA_1D_2024-07-01_2024-08-01.png"
+        "image": "/examples/in-neck-line/TSLA_1D_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "NVDA",
@@ -2814,7 +2814,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "In-Neck Line pattern on NVDA 4H chart — similar to on-neck but second candle closes slightly into prior body",
-        "image": "/examples/in-neck-line/NVDA_4H_2024-08-01_2024-08-01.png"
+        "image": "/examples/in-neck-line/NVDA_4H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "META",
@@ -2822,7 +2822,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "In-Neck Line pattern on META 1H chart — similar to on-neck but second candle closes slightly into prior body",
-        "image": "/examples/in-neck-line/META_1H_2024-01-15_2024-02-01.png"
+        "image": "/examples/in-neck-line/META_1H_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -2900,7 +2900,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Thrusting Pattern pattern on JPM 1D chart — second candle pushes into prior body but fails at midpoint",
-        "image": "/examples/thrusting-pattern/JPM_1D_2024-08-01_2024-08-01.png"
+        "image": "/examples/thrusting-pattern/JPM_1D_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "V",
@@ -2908,7 +2908,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Thrusting Pattern pattern on V 4H chart — second candle pushes into prior body but fails at midpoint",
-        "image": "/examples/thrusting-pattern/V_4H_2024-01-15_2024-02-01.png"
+        "image": "/examples/thrusting-pattern/V_4H_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "DIS",
@@ -2916,7 +2916,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Thrusting Pattern pattern on DIS 1H chart — second candle pushes into prior body but fails at midpoint",
-        "image": "/examples/thrusting-pattern/DIS_1H_2024-02-01_2024-02-15.png"
+        "image": "/examples/thrusting-pattern/DIS_1H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "SPY",
@@ -2924,7 +2924,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Thrusting Pattern pattern on SPY 15m chart — second candle pushes into prior body but fails at midpoint",
-        "image": "/examples/thrusting-pattern/SPY_15m_2024-02-15_2024-03-01.png"
+        "image": "/examples/thrusting-pattern/SPY_15m_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -3002,7 +3002,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Morning Star pattern on SPY 1D chart — three-candle bullish reversal with small middle candle",
-        "image": "/examples/morning-star/SPY_1D_2024-01-15_2024-02-01.png"
+        "image": "/examples/morning-star/SPY_1D_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "QQQ",
@@ -3010,7 +3010,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Morning Star pattern on QQQ 4H chart — three-candle bullish reversal with small middle candle",
-        "image": "/examples/morning-star/QQQ_4H_2024-02-01_2024-02-15.png"
+        "image": "/examples/morning-star/QQQ_4H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "AMD",
@@ -3018,7 +3018,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Morning Star pattern on AMD 1H chart — three-candle bullish reversal with small middle candle",
-        "image": "/examples/morning-star/AMD_1H_2024-02-15_2024-03-01.png"
+        "image": "/examples/morning-star/AMD_1H_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -3096,7 +3096,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Evening Star pattern on BA 1D chart — three-candle bearish reversal with small middle candle",
-        "image": "/examples/evening-star/BA_1D_2024-02-01_2024-02-15.png"
+        "image": "/examples/evening-star/BA_1D_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "NFLX",
@@ -3104,7 +3104,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Evening Star pattern on NFLX 4H chart — three-candle bearish reversal with small middle candle",
-        "image": "/examples/evening-star/NFLX_4H_2024-02-15_2024-03-01.png"
+        "image": "/examples/evening-star/NFLX_4H_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "CRM",
@@ -3112,7 +3112,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Evening Star pattern on CRM 1H chart — three-candle bearish reversal with small middle candle",
-        "image": "/examples/evening-star/CRM_1H_2024-03-01_2024-03-15.png"
+        "image": "/examples/evening-star/CRM_1H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "PYPL",
@@ -3120,7 +3120,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Evening Star pattern on PYPL 15m chart — three-candle bearish reversal with small middle candle",
-        "image": "/examples/evening-star/PYPL_15m_2024-03-15_2024-04-01.png"
+        "image": "/examples/evening-star/PYPL_15m_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -3198,7 +3198,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Morning Doji Star pattern on PYPL 1D chart — morning star variant with doji as middle candle",
-        "image": "/examples/morning-doji-star/PYPL_1D_2024-02-15_2024-03-01.png"
+        "image": "/examples/morning-doji-star/PYPL_1D_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "INTC",
@@ -3206,7 +3206,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Morning Doji Star pattern on INTC 4H chart — morning star variant with doji as middle candle",
-        "image": "/examples/morning-doji-star/INTC_4H_2024-03-01_2024-03-15.png"
+        "image": "/examples/morning-doji-star/INTC_4H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "WMT",
@@ -3214,7 +3214,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Morning Doji Star pattern on WMT 1H chart — morning star variant with doji as middle candle",
-        "image": "/examples/morning-doji-star/WMT_1H_2024-03-15_2024-04-01.png"
+        "image": "/examples/morning-doji-star/WMT_1H_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -3292,7 +3292,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Evening Doji Star pattern on HD 1D chart — evening star variant with doji as middle candle",
-        "image": "/examples/evening-doji-star/HD_1D_2024-03-01_2024-03-15.png"
+        "image": "/examples/evening-doji-star/HD_1D_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "AAPL",
@@ -3300,7 +3300,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Evening Doji Star pattern on AAPL 4H chart — evening star variant with doji as middle candle",
-        "image": "/examples/evening-doji-star/AAPL_4H_2024-03-15_2024-04-01.png"
+        "image": "/examples/evening-doji-star/AAPL_4H_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "MSFT",
@@ -3308,7 +3308,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Evening Doji Star pattern on MSFT 1H chart — evening star variant with doji as middle candle",
-        "image": "/examples/evening-doji-star/MSFT_1H_2024-04-01_2024-05-01.png"
+        "image": "/examples/evening-doji-star/MSFT_1H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "GOOGL",
@@ -3316,7 +3316,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Evening Doji Star pattern on GOOGL 15m chart — evening star variant with doji as middle candle",
-        "image": "/examples/evening-doji-star/GOOGL_15m_2024-05-01_2024-06-01.png"
+        "image": "/examples/evening-doji-star/GOOGL_15m_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -3394,7 +3394,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Three White Soldiers pattern on GOOGL 1D chart — three consecutive long bullish candles with higher closes",
-        "image": "/examples/three-white-soldiers/GOOGL_1D_2024-03-15_2024-04-01.png"
+        "image": "/examples/three-white-soldiers/GOOGL_1D_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "AMZN",
@@ -3402,7 +3402,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Three White Soldiers pattern on AMZN 4H chart — three consecutive long bullish candles with higher closes",
-        "image": "/examples/three-white-soldiers/AMZN_4H_2024-04-01_2024-05-01.png"
+        "image": "/examples/three-white-soldiers/AMZN_4H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "TSLA",
@@ -3410,7 +3410,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Three White Soldiers pattern on TSLA 1H chart — three consecutive long bullish candles with higher closes",
-        "image": "/examples/three-white-soldiers/TSLA_1H_2024-05-01_2024-06-01.png"
+        "image": "/examples/three-white-soldiers/TSLA_1H_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -3488,7 +3488,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Three Black Crows pattern on NVDA 1D chart — three consecutive long bearish candles with lower closes",
-        "image": "/examples/three-black-crows/NVDA_1D_2024-04-01_2024-05-01.png"
+        "image": "/examples/three-black-crows/NVDA_1D_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "META",
@@ -3496,7 +3496,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Three Black Crows pattern on META 4H chart — three consecutive long bearish candles with lower closes",
-        "image": "/examples/three-black-crows/META_4H_2024-05-01_2024-06-01.png"
+        "image": "/examples/three-black-crows/META_4H_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "JPM",
@@ -3504,7 +3504,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Three Black Crows pattern on JPM 1H chart — three consecutive long bearish candles with lower closes",
-        "image": "/examples/three-black-crows/JPM_1H_2024-06-01_2024-07-01.png"
+        "image": "/examples/three-black-crows/JPM_1H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "V",
@@ -3512,7 +3512,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Three Black Crows pattern on V 15m chart — three consecutive long bearish candles with lower closes",
-        "image": "/examples/three-black-crows/V_15m_2024-07-01_2024-08-01.png"
+        "image": "/examples/three-black-crows/V_15m_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -3590,7 +3590,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Three Inside Up pattern on V 1D chart — harami pattern confirmed by third bullish candle",
-        "image": "/examples/three-inside-up/V_1D_2024-05-01_2024-06-01.png"
+        "image": "/examples/three-inside-up/V_1D_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "DIS",
@@ -3598,7 +3598,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Three Inside Up pattern on DIS 4H chart — harami pattern confirmed by third bullish candle",
-        "image": "/examples/three-inside-up/DIS_4H_2024-06-01_2024-07-01.png"
+        "image": "/examples/three-inside-up/DIS_4H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "SPY",
@@ -3606,7 +3606,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Three Inside Up pattern on SPY 1H chart — harami pattern confirmed by third bullish candle",
-        "image": "/examples/three-inside-up/SPY_1H_2024-07-01_2024-08-01.png"
+        "image": "/examples/three-inside-up/SPY_1H_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -3684,7 +3684,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Three Inside Down pattern on QQQ 1D chart — harami pattern confirmed by third bearish candle",
-        "image": "/examples/three-inside-down/QQQ_1D_2024-06-01_2024-07-01.png"
+        "image": "/examples/three-inside-down/QQQ_1D_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "AMD",
@@ -3692,7 +3692,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Three Inside Down pattern on AMD 4H chart — harami pattern confirmed by third bearish candle",
-        "image": "/examples/three-inside-down/AMD_4H_2024-07-01_2024-08-01.png"
+        "image": "/examples/three-inside-down/AMD_4H_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "BA",
@@ -3700,7 +3700,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Three Inside Down pattern on BA 1H chart — harami pattern confirmed by third bearish candle",
-        "image": "/examples/three-inside-down/BA_1H_2024-08-01_2024-08-01.png"
+        "image": "/examples/three-inside-down/BA_1H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "NFLX",
@@ -3708,7 +3708,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Three Inside Down pattern on NFLX 15m chart — harami pattern confirmed by third bearish candle",
-        "image": "/examples/three-inside-down/NFLX_15m_2024-01-15_2024-02-01.png"
+        "image": "/examples/three-inside-down/NFLX_15m_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -3786,7 +3786,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Three Outside Up pattern on NFLX 1D chart — engulfing pattern confirmed by third bullish candle",
-        "image": "/examples/three-outside-up/NFLX_1D_2024-07-01_2024-08-01.png"
+        "image": "/examples/three-outside-up/NFLX_1D_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "CRM",
@@ -3794,7 +3794,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Three Outside Up pattern on CRM 4H chart — engulfing pattern confirmed by third bullish candle",
-        "image": "/examples/three-outside-up/CRM_4H_2024-08-01_2024-08-01.png"
+        "image": "/examples/three-outside-up/CRM_4H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "PYPL",
@@ -3802,7 +3802,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Three Outside Up pattern on PYPL 1H chart — engulfing pattern confirmed by third bullish candle",
-        "image": "/examples/three-outside-up/PYPL_1H_2024-01-15_2024-02-01.png"
+        "image": "/examples/three-outside-up/PYPL_1H_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -3880,7 +3880,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Three Outside Down pattern on INTC 1D chart — engulfing pattern confirmed by third bearish candle",
-        "image": "/examples/three-outside-down/INTC_1D_2024-08-01_2024-08-01.png"
+        "image": "/examples/three-outside-down/INTC_1D_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "WMT",
@@ -3888,7 +3888,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Three Outside Down pattern on WMT 4H chart — engulfing pattern confirmed by third bearish candle",
-        "image": "/examples/three-outside-down/WMT_4H_2024-01-15_2024-02-01.png"
+        "image": "/examples/three-outside-down/WMT_4H_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "HD",
@@ -3896,7 +3896,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Three Outside Down pattern on HD 1H chart — engulfing pattern confirmed by third bearish candle",
-        "image": "/examples/three-outside-down/HD_1H_2024-02-01_2024-02-15.png"
+        "image": "/examples/three-outside-down/HD_1H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "AAPL",
@@ -3904,7 +3904,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Three Outside Down pattern on AAPL 15m chart — engulfing pattern confirmed by third bearish candle",
-        "image": "/examples/three-outside-down/AAPL_15m_2024-02-15_2024-03-01.png"
+        "image": "/examples/three-outside-down/AAPL_15m_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -3982,7 +3982,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Rising Three Methods pattern on AAPL 1D chart — bullish continuation with three small candles in a pullback",
-        "image": "/examples/rising-three-methods/AAPL_1D_2024-01-15_2024-02-01.png"
+        "image": "/examples/rising-three-methods/AAPL_1D_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "MSFT",
@@ -3990,7 +3990,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Rising Three Methods pattern on MSFT 4H chart — bullish continuation with three small candles in a pullback",
-        "image": "/examples/rising-three-methods/MSFT_4H_2024-02-01_2024-02-15.png"
+        "image": "/examples/rising-three-methods/MSFT_4H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "GOOGL",
@@ -3998,7 +3998,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Rising Three Methods pattern on GOOGL 1H chart — bullish continuation with three small candles in a pullback",
-        "image": "/examples/rising-three-methods/GOOGL_1H_2024-02-15_2024-03-01.png"
+        "image": "/examples/rising-three-methods/GOOGL_1H_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -4076,7 +4076,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Falling Three Methods pattern on AMZN 1D chart — bearish continuation with three small candles in a rally",
-        "image": "/examples/falling-three-methods/AMZN_1D_2024-02-01_2024-02-15.png"
+        "image": "/examples/falling-three-methods/AMZN_1D_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "TSLA",
@@ -4084,7 +4084,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Falling Three Methods pattern on TSLA 4H chart — bearish continuation with three small candles in a rally",
-        "image": "/examples/falling-three-methods/TSLA_4H_2024-02-15_2024-03-01.png"
+        "image": "/examples/falling-three-methods/TSLA_4H_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "NVDA",
@@ -4092,7 +4092,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Falling Three Methods pattern on NVDA 1H chart — bearish continuation with three small candles in a rally",
-        "image": "/examples/falling-three-methods/NVDA_1H_2024-03-01_2024-03-15.png"
+        "image": "/examples/falling-three-methods/NVDA_1H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "META",
@@ -4100,7 +4100,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Falling Three Methods pattern on META 15m chart — bearish continuation with three small candles in a rally",
-        "image": "/examples/falling-three-methods/META_15m_2024-03-15_2024-04-01.png"
+        "image": "/examples/falling-three-methods/META_15m_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -4178,7 +4178,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Abandoned Baby (Bullish) pattern on META 1D chart — rare bullish reversal with gapped doji between bearish and bullish candles",
-        "image": "/examples/bullish-abandoned-baby/META_1D_2024-02-15_2024-03-01.png"
+        "image": "/examples/bullish-abandoned-baby/META_1D_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "JPM",
@@ -4186,7 +4186,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Abandoned Baby (Bullish) pattern on JPM 4H chart — rare bullish reversal with gapped doji between bearish and bullish candles",
-        "image": "/examples/bullish-abandoned-baby/JPM_4H_2024-03-01_2024-03-15.png"
+        "image": "/examples/bullish-abandoned-baby/JPM_4H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "V",
@@ -4194,7 +4194,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Abandoned Baby (Bullish) pattern on V 1H chart — rare bullish reversal with gapped doji between bearish and bullish candles",
-        "image": "/examples/bullish-abandoned-baby/V_1H_2024-03-15_2024-04-01.png"
+        "image": "/examples/bullish-abandoned-baby/V_1H_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -4272,7 +4272,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Abandoned Baby (Bearish) pattern on DIS 1D chart — rare bearish reversal with gapped doji between bullish and bearish candles",
-        "image": "/examples/bearish-abandoned-baby/DIS_1D_2024-03-01_2024-03-15.png"
+        "image": "/examples/bearish-abandoned-baby/DIS_1D_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "SPY",
@@ -4280,7 +4280,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Abandoned Baby (Bearish) pattern on SPY 4H chart — rare bearish reversal with gapped doji between bullish and bearish candles",
-        "image": "/examples/bearish-abandoned-baby/SPY_4H_2024-03-15_2024-04-01.png"
+        "image": "/examples/bearish-abandoned-baby/SPY_4H_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "QQQ",
@@ -4288,7 +4288,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Abandoned Baby (Bearish) pattern on QQQ 1H chart — rare bearish reversal with gapped doji between bullish and bearish candles",
-        "image": "/examples/bearish-abandoned-baby/QQQ_1H_2024-04-01_2024-05-01.png"
+        "image": "/examples/bearish-abandoned-baby/QQQ_1H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "AMD",
@@ -4296,7 +4296,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Abandoned Baby (Bearish) pattern on AMD 15m chart — rare bearish reversal with gapped doji between bullish and bearish candles",
-        "image": "/examples/bearish-abandoned-baby/AMD_15m_2024-05-01_2024-06-01.png"
+        "image": "/examples/bearish-abandoned-baby/AMD_15m_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -4374,7 +4374,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Tri-Star (Bullish) pattern on AMD 1D chart — three dojis with middle doji gapping down",
-        "image": "/examples/bullish-tri-star/AMD_1D_2024-03-15_2024-04-01.png"
+        "image": "/examples/bullish-tri-star/AMD_1D_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "BA",
@@ -4382,7 +4382,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Tri-Star (Bullish) pattern on BA 4H chart — three dojis with middle doji gapping down",
-        "image": "/examples/bullish-tri-star/BA_4H_2024-04-01_2024-05-01.png"
+        "image": "/examples/bullish-tri-star/BA_4H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "NFLX",
@@ -4390,7 +4390,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Tri-Star (Bullish) pattern on NFLX 1H chart — three dojis with middle doji gapping down",
-        "image": "/examples/bullish-tri-star/NFLX_1H_2024-05-01_2024-06-01.png"
+        "image": "/examples/bullish-tri-star/NFLX_1H_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -4468,7 +4468,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Tri-Star (Bearish) pattern on CRM 1D chart — three dojis with middle doji gapping up",
-        "image": "/examples/bearish-tri-star/CRM_1D_2024-04-01_2024-05-01.png"
+        "image": "/examples/bearish-tri-star/CRM_1D_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "PYPL",
@@ -4476,7 +4476,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Tri-Star (Bearish) pattern on PYPL 4H chart — three dojis with middle doji gapping up",
-        "image": "/examples/bearish-tri-star/PYPL_4H_2024-05-01_2024-06-01.png"
+        "image": "/examples/bearish-tri-star/PYPL_4H_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "INTC",
@@ -4484,7 +4484,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Tri-Star (Bearish) pattern on INTC 1H chart — three dojis with middle doji gapping up",
-        "image": "/examples/bearish-tri-star/INTC_1H_2024-06-01_2024-07-01.png"
+        "image": "/examples/bearish-tri-star/INTC_1H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "WMT",
@@ -4492,7 +4492,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Tri-Star (Bearish) pattern on WMT 15m chart — three dojis with middle doji gapping up",
-        "image": "/examples/bearish-tri-star/WMT_15m_2024-07-01_2024-08-01.png"
+        "image": "/examples/bearish-tri-star/WMT_15m_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -4570,7 +4570,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Upside Tasuki Gap pattern on WMT 1D chart — bullish continuation gap partially filled by bearish candle",
-        "image": "/examples/upside-tasuki-gap/WMT_1D_2024-05-01_2024-06-01.png"
+        "image": "/examples/upside-tasuki-gap/WMT_1D_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "HD",
@@ -4578,7 +4578,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Upside Tasuki Gap pattern on HD 4H chart — bullish continuation gap partially filled by bearish candle",
-        "image": "/examples/upside-tasuki-gap/HD_4H_2024-06-01_2024-07-01.png"
+        "image": "/examples/upside-tasuki-gap/HD_4H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "AAPL",
@@ -4586,7 +4586,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Upside Tasuki Gap pattern on AAPL 1H chart — bullish continuation gap partially filled by bearish candle",
-        "image": "/examples/upside-tasuki-gap/AAPL_1H_2024-07-01_2024-08-01.png"
+        "image": "/examples/upside-tasuki-gap/AAPL_1H_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -4664,7 +4664,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Downside Tasuki Gap pattern on MSFT 1D chart — bearish continuation gap partially filled by bullish candle",
-        "image": "/examples/downside-tasuki-gap/MSFT_1D_2024-06-01_2024-07-01.png"
+        "image": "/examples/downside-tasuki-gap/MSFT_1D_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "GOOGL",
@@ -4672,7 +4672,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Downside Tasuki Gap pattern on GOOGL 4H chart — bearish continuation gap partially filled by bullish candle",
-        "image": "/examples/downside-tasuki-gap/GOOGL_4H_2024-07-01_2024-08-01.png"
+        "image": "/examples/downside-tasuki-gap/GOOGL_4H_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "AMZN",
@@ -4680,7 +4680,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Downside Tasuki Gap pattern on AMZN 1H chart — bearish continuation gap partially filled by bullish candle",
-        "image": "/examples/downside-tasuki-gap/AMZN_1H_2024-08-01_2024-08-01.png"
+        "image": "/examples/downside-tasuki-gap/AMZN_1H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "TSLA",
@@ -4688,7 +4688,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Downside Tasuki Gap pattern on TSLA 15m chart — bearish continuation gap partially filled by bullish candle",
-        "image": "/examples/downside-tasuki-gap/TSLA_15m_2024-01-15_2024-02-01.png"
+        "image": "/examples/downside-tasuki-gap/TSLA_15m_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -4766,7 +4766,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Mat Hold (Bullish) pattern on TSLA 1D chart — bullish continuation similar to rising three methods",
-        "image": "/examples/bullish-mat-hold/TSLA_1D_2024-07-01_2024-08-01.png"
+        "image": "/examples/bullish-mat-hold/TSLA_1D_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "NVDA",
@@ -4774,7 +4774,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Mat Hold (Bullish) pattern on NVDA 4H chart — bullish continuation similar to rising three methods",
-        "image": "/examples/bullish-mat-hold/NVDA_4H_2024-08-01_2024-08-01.png"
+        "image": "/examples/bullish-mat-hold/NVDA_4H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "META",
@@ -4782,7 +4782,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Mat Hold (Bullish) pattern on META 1H chart — bullish continuation similar to rising three methods",
-        "image": "/examples/bullish-mat-hold/META_1H_2024-01-15_2024-02-01.png"
+        "image": "/examples/bullish-mat-hold/META_1H_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -4860,7 +4860,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Kicking (Bullish) pattern on JPM 1D chart — bearish marubozu followed by gap-up bullish marubozu",
-        "image": "/examples/bullish-kicking/JPM_1D_2024-08-01_2024-08-01.png"
+        "image": "/examples/bullish-kicking/JPM_1D_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "V",
@@ -4868,7 +4868,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Kicking (Bullish) pattern on V 4H chart — bearish marubozu followed by gap-up bullish marubozu",
-        "image": "/examples/bullish-kicking/V_4H_2024-01-15_2024-02-01.png"
+        "image": "/examples/bullish-kicking/V_4H_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "DIS",
@@ -4876,7 +4876,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Kicking (Bullish) pattern on DIS 1H chart — bearish marubozu followed by gap-up bullish marubozu",
-        "image": "/examples/bullish-kicking/DIS_1H_2024-02-01_2024-02-15.png"
+        "image": "/examples/bullish-kicking/DIS_1H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "SPY",
@@ -4884,7 +4884,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Kicking (Bullish) pattern on SPY 15m chart — bearish marubozu followed by gap-up bullish marubozu",
-        "image": "/examples/bullish-kicking/SPY_15m_2024-02-15_2024-03-01.png"
+        "image": "/examples/bullish-kicking/SPY_15m_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -4962,7 +4962,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Kicking (Bearish) pattern on SPY 1D chart — bullish marubozu followed by gap-down bearish marubozu",
-        "image": "/examples/bearish-kicking/SPY_1D_2024-01-15_2024-02-01.png"
+        "image": "/examples/bearish-kicking/SPY_1D_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "QQQ",
@@ -4970,7 +4970,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Kicking (Bearish) pattern on QQQ 4H chart — bullish marubozu followed by gap-down bearish marubozu",
-        "image": "/examples/bearish-kicking/QQQ_4H_2024-02-01_2024-02-15.png"
+        "image": "/examples/bearish-kicking/QQQ_4H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "AMD",
@@ -4978,7 +4978,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Kicking (Bearish) pattern on AMD 1H chart — bullish marubozu followed by gap-down bearish marubozu",
-        "image": "/examples/bearish-kicking/AMD_1H_2024-02-15_2024-03-01.png"
+        "image": "/examples/bearish-kicking/AMD_1H_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -5056,7 +5056,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Ladder Bottom pattern on BA 1D chart — five-candle bullish reversal with three black crows then reversal",
-        "image": "/examples/ladder-bottom/BA_1D_2024-02-01_2024-02-15.png"
+        "image": "/examples/ladder-bottom/BA_1D_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "NFLX",
@@ -5064,7 +5064,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Ladder Bottom pattern on NFLX 4H chart — five-candle bullish reversal with three black crows then reversal",
-        "image": "/examples/ladder-bottom/NFLX_4H_2024-02-15_2024-03-01.png"
+        "image": "/examples/ladder-bottom/NFLX_4H_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "CRM",
@@ -5072,7 +5072,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Ladder Bottom pattern on CRM 1H chart — five-candle bullish reversal with three black crows then reversal",
-        "image": "/examples/ladder-bottom/CRM_1H_2024-03-01_2024-03-15.png"
+        "image": "/examples/ladder-bottom/CRM_1H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "PYPL",
@@ -5080,7 +5080,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Ladder Bottom pattern on PYPL 15m chart — five-candle bullish reversal with three black crows then reversal",
-        "image": "/examples/ladder-bottom/PYPL_15m_2024-03-15_2024-04-01.png"
+        "image": "/examples/ladder-bottom/PYPL_15m_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -5158,7 +5158,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Advance Block pattern on PYPL 1D chart — three rising candles with diminishing body size showing weakening",
-        "image": "/examples/advance-block/PYPL_1D_2024-02-15_2024-03-01.png"
+        "image": "/examples/advance-block/PYPL_1D_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "INTC",
@@ -5166,7 +5166,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Advance Block pattern on INTC 4H chart — three rising candles with diminishing body size showing weakening",
-        "image": "/examples/advance-block/INTC_4H_2024-03-01_2024-03-15.png"
+        "image": "/examples/advance-block/INTC_4H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "WMT",
@@ -5174,7 +5174,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Advance Block pattern on WMT 1H chart — three rising candles with diminishing body size showing weakening",
-        "image": "/examples/advance-block/WMT_1H_2024-03-15_2024-04-01.png"
+        "image": "/examples/advance-block/WMT_1H_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -5252,7 +5252,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Deliberation pattern on HD 1D chart — similar to advance block with small third candle near highs",
-        "image": "/examples/deliberation/HD_1D_2024-03-01_2024-03-15.png"
+        "image": "/examples/deliberation/HD_1D_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "AAPL",
@@ -5260,7 +5260,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Deliberation pattern on AAPL 4H chart — similar to advance block with small third candle near highs",
-        "image": "/examples/deliberation/AAPL_4H_2024-03-15_2024-04-01.png"
+        "image": "/examples/deliberation/AAPL_4H_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "MSFT",
@@ -5268,7 +5268,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Deliberation pattern on MSFT 1H chart — similar to advance block with small third candle near highs",
-        "image": "/examples/deliberation/MSFT_1H_2024-04-01_2024-05-01.png"
+        "image": "/examples/deliberation/MSFT_1H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "GOOGL",
@@ -5276,7 +5276,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Deliberation pattern on GOOGL 15m chart — similar to advance block with small third candle near highs",
-        "image": "/examples/deliberation/GOOGL_15m_2024-05-01_2024-06-01.png"
+        "image": "/examples/deliberation/GOOGL_15m_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -5354,7 +5354,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Two Crows pattern on GOOGL 1D chart — gap-up small bearish candle followed by larger bearish engulfing",
-        "image": "/examples/two-crows/GOOGL_1D_2024-03-15_2024-04-01.png"
+        "image": "/examples/two-crows/GOOGL_1D_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "AMZN",
@@ -5362,7 +5362,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Two Crows pattern on AMZN 4H chart — gap-up small bearish candle followed by larger bearish engulfing",
-        "image": "/examples/two-crows/AMZN_4H_2024-04-01_2024-05-01.png"
+        "image": "/examples/two-crows/AMZN_4H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "TSLA",
@@ -5370,7 +5370,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Two Crows pattern on TSLA 1H chart — gap-up small bearish candle followed by larger bearish engulfing",
-        "image": "/examples/two-crows/TSLA_1H_2024-05-01_2024-06-01.png"
+        "image": "/examples/two-crows/TSLA_1H_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -5448,7 +5448,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Unique Three River Bottom pattern on NVDA 1D chart — rare three-candle bullish reversal at bottoms",
-        "image": "/examples/unique-three-river/NVDA_1D_2024-04-01_2024-05-01.png"
+        "image": "/examples/unique-three-river/NVDA_1D_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "META",
@@ -5456,7 +5456,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Unique Three River Bottom pattern on META 4H chart — rare three-candle bullish reversal at bottoms",
-        "image": "/examples/unique-three-river/META_4H_2024-05-01_2024-06-01.png"
+        "image": "/examples/unique-three-river/META_4H_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "JPM",
@@ -5464,7 +5464,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Unique Three River Bottom pattern on JPM 1H chart — rare three-candle bullish reversal at bottoms",
-        "image": "/examples/unique-three-river/JPM_1H_2024-06-01_2024-07-01.png"
+        "image": "/examples/unique-three-river/JPM_1H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "V",
@@ -5472,7 +5472,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Unique Three River Bottom pattern on V 15m chart — rare three-candle bullish reversal at bottoms",
-        "image": "/examples/unique-three-river/V_15m_2024-07-01_2024-08-01.png"
+        "image": "/examples/unique-three-river/V_15m_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -5550,7 +5550,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Concealing Baby Swallow pattern on V 1D chart — four-candle rare bullish pattern with engulfed harami",
-        "image": "/examples/concealing-baby-swallow/V_1D_2024-05-01_2024-06-01.png"
+        "image": "/examples/concealing-baby-swallow/V_1D_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "DIS",
@@ -5558,7 +5558,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Concealing Baby Swallow pattern on DIS 4H chart — four-candle rare bullish pattern with engulfed harami",
-        "image": "/examples/concealing-baby-swallow/DIS_4H_2024-06-01_2024-07-01.png"
+        "image": "/examples/concealing-baby-swallow/DIS_4H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "SPY",
@@ -5566,7 +5566,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Concealing Baby Swallow pattern on SPY 1H chart — four-candle rare bullish pattern with engulfed harami",
-        "image": "/examples/concealing-baby-swallow/SPY_1H_2024-07-01_2024-08-01.png"
+        "image": "/examples/concealing-baby-swallow/SPY_1H_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -5644,7 +5644,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Stick Sandwich pattern on QQQ 1D chart — two matching-close bearish candles sandwich a bullish candle",
-        "image": "/examples/stick-sandwich/QQQ_1D_2024-06-01_2024-07-01.png"
+        "image": "/examples/stick-sandwich/QQQ_1D_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "AMD",
@@ -5652,7 +5652,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Stick Sandwich pattern on AMD 4H chart — two matching-close bearish candles sandwich a bullish candle",
-        "image": "/examples/stick-sandwich/AMD_4H_2024-07-01_2024-08-01.png"
+        "image": "/examples/stick-sandwich/AMD_4H_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "BA",
@@ -5660,7 +5660,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Stick Sandwich pattern on BA 1H chart — two matching-close bearish candles sandwich a bullish candle",
-        "image": "/examples/stick-sandwich/BA_1H_2024-08-01_2024-08-01.png"
+        "image": "/examples/stick-sandwich/BA_1H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "NFLX",
@@ -5668,7 +5668,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Stick Sandwich pattern on NFLX 15m chart — two matching-close bearish candles sandwich a bullish candle",
-        "image": "/examples/stick-sandwich/NFLX_15m_2024-01-15_2024-02-01.png"
+        "image": "/examples/stick-sandwich/NFLX_15m_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -5746,7 +5746,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Homing Pigeon pattern on NFLX 1D chart — bullish harami variant where both candles are bearish",
-        "image": "/examples/homing-pigeon/NFLX_1D_2024-07-01_2024-08-01.png"
+        "image": "/examples/homing-pigeon/NFLX_1D_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "CRM",
@@ -5754,7 +5754,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Homing Pigeon pattern on CRM 4H chart — bullish harami variant where both candles are bearish",
-        "image": "/examples/homing-pigeon/CRM_4H_2024-08-01_2024-08-01.png"
+        "image": "/examples/homing-pigeon/CRM_4H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "PYPL",
@@ -5762,7 +5762,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Homing Pigeon pattern on PYPL 1H chart — bullish harami variant where both candles are bearish",
-        "image": "/examples/homing-pigeon/PYPL_1H_2024-01-15_2024-02-01.png"
+        "image": "/examples/homing-pigeon/PYPL_1H_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -5840,7 +5840,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Matching Low pattern on INTC 1D chart — two bearish candles closing at the same low showing support",
-        "image": "/examples/matching-low/INTC_1D_2024-08-01_2024-08-01.png"
+        "image": "/examples/matching-low/INTC_1D_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "WMT",
@@ -5848,7 +5848,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Matching Low pattern on WMT 4H chart — two bearish candles closing at the same low showing support",
-        "image": "/examples/matching-low/WMT_4H_2024-01-15_2024-02-01.png"
+        "image": "/examples/matching-low/WMT_4H_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "HD",
@@ -5856,7 +5856,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Matching Low pattern on HD 1H chart — two bearish candles closing at the same low showing support",
-        "image": "/examples/matching-low/HD_1H_2024-02-01_2024-02-15.png"
+        "image": "/examples/matching-low/HD_1H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "AAPL",
@@ -5864,7 +5864,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Matching Low pattern on AAPL 15m chart — two bearish candles closing at the same low showing support",
-        "image": "/examples/matching-low/AAPL_15m_2024-02-15_2024-03-01.png"
+        "image": "/examples/matching-low/AAPL_15m_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -5942,7 +5942,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Upside Gap Two Crows pattern on AAPL 1D chart — two small bearish candles gap above prior bullish body",
-        "image": "/examples/upside-gap-two-crows/AAPL_1D_2024-01-15_2024-02-01.png"
+        "image": "/examples/upside-gap-two-crows/AAPL_1D_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "MSFT",
@@ -5950,7 +5950,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Upside Gap Two Crows pattern on MSFT 4H chart — two small bearish candles gap above prior bullish body",
-        "image": "/examples/upside-gap-two-crows/MSFT_4H_2024-02-01_2024-02-15.png"
+        "image": "/examples/upside-gap-two-crows/MSFT_4H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "GOOGL",
@@ -5958,7 +5958,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Upside Gap Two Crows pattern on GOOGL 1H chart — two small bearish candles gap above prior bullish body",
-        "image": "/examples/upside-gap-two-crows/GOOGL_1H_2024-02-15_2024-03-01.png"
+        "image": "/examples/upside-gap-two-crows/GOOGL_1H_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -6036,7 +6036,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Separating Lines (Bullish) pattern on AMZN 1D chart — bearish candle followed by bullish candle opening at same level",
-        "image": "/examples/bullish-separating-lines/AMZN_1D_2024-02-01_2024-02-15.png"
+        "image": "/examples/bullish-separating-lines/AMZN_1D_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "TSLA",
@@ -6044,7 +6044,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Separating Lines (Bullish) pattern on TSLA 4H chart — bearish candle followed by bullish candle opening at same level",
-        "image": "/examples/bullish-separating-lines/TSLA_4H_2024-02-15_2024-03-01.png"
+        "image": "/examples/bullish-separating-lines/TSLA_4H_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "NVDA",
@@ -6052,7 +6052,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Separating Lines (Bullish) pattern on NVDA 1H chart — bearish candle followed by bullish candle opening at same level",
-        "image": "/examples/bullish-separating-lines/NVDA_1H_2024-03-01_2024-03-15.png"
+        "image": "/examples/bullish-separating-lines/NVDA_1H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "META",
@@ -6060,7 +6060,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Separating Lines (Bullish) pattern on META 15m chart — bearish candle followed by bullish candle opening at same level",
-        "image": "/examples/bullish-separating-lines/META_15m_2024-03-15_2024-04-01.png"
+        "image": "/examples/bullish-separating-lines/META_15m_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -6138,7 +6138,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Separating Lines (Bearish) pattern on META 1D chart — bullish candle followed by bearish candle opening at same level",
-        "image": "/examples/bearish-separating-lines/META_1D_2024-02-15_2024-03-01.png"
+        "image": "/examples/bearish-separating-lines/META_1D_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "JPM",
@@ -6146,7 +6146,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Separating Lines (Bearish) pattern on JPM 4H chart — bullish candle followed by bearish candle opening at same level",
-        "image": "/examples/bearish-separating-lines/JPM_4H_2024-03-01_2024-03-15.png"
+        "image": "/examples/bearish-separating-lines/JPM_4H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "V",
@@ -6154,7 +6154,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Separating Lines (Bearish) pattern on V 1H chart — bullish candle followed by bearish candle opening at same level",
-        "image": "/examples/bearish-separating-lines/V_1H_2024-03-15_2024-04-01.png"
+        "image": "/examples/bearish-separating-lines/V_1H_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -6232,7 +6232,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Head and Shoulders pattern on DIS 1D chart — three-peak formation with higher middle peak signaling top reversal",
-        "image": "/examples/head-and-shoulders/DIS_1D_2024-03-01_2024-03-15.png"
+        "image": "/examples/head-and-shoulders/DIS_1D_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "SPY",
@@ -6240,7 +6240,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Head and Shoulders pattern on SPY 4H chart — three-peak formation with higher middle peak signaling top reversal",
-        "image": "/examples/head-and-shoulders/SPY_4H_2024-03-15_2024-04-01.png"
+        "image": "/examples/head-and-shoulders/SPY_4H_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "QQQ",
@@ -6248,7 +6248,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Head and Shoulders pattern on QQQ 1H chart — three-peak formation with higher middle peak signaling top reversal",
-        "image": "/examples/head-and-shoulders/QQQ_1H_2024-04-01_2024-05-01.png"
+        "image": "/examples/head-and-shoulders/QQQ_1H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "AMD",
@@ -6256,7 +6256,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Head and Shoulders pattern on AMD 15m chart — three-peak formation with higher middle peak signaling top reversal",
-        "image": "/examples/head-and-shoulders/AMD_15m_2024-05-01_2024-06-01.png"
+        "image": "/examples/head-and-shoulders/AMD_15m_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -6334,7 +6334,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Inverse Head and Shoulders pattern on AMD 1D chart — three-trough formation with lower middle trough signaling bottom reversal",
-        "image": "/examples/inverse-head-and-shoulders/AMD_1D_2024-03-15_2024-04-01.png"
+        "image": "/examples/inverse-head-and-shoulders/AMD_1D_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "BA",
@@ -6342,7 +6342,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Inverse Head and Shoulders pattern on BA 4H chart — three-trough formation with lower middle trough signaling bottom reversal",
-        "image": "/examples/inverse-head-and-shoulders/BA_4H_2024-04-01_2024-05-01.png"
+        "image": "/examples/inverse-head-and-shoulders/BA_4H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "NFLX",
@@ -6350,7 +6350,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Inverse Head and Shoulders pattern on NFLX 1H chart — three-trough formation with lower middle trough signaling bottom reversal",
-        "image": "/examples/inverse-head-and-shoulders/NFLX_1H_2024-05-01_2024-06-01.png"
+        "image": "/examples/inverse-head-and-shoulders/NFLX_1H_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -6428,7 +6428,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Double Top pattern on CRM 1D chart — two peaks at the same level forming m-shape reversal",
-        "image": "/examples/double-top/CRM_1D_2024-04-01_2024-05-01.png"
+        "image": "/examples/double-top/CRM_1D_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "PYPL",
@@ -6436,7 +6436,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Double Top pattern on PYPL 4H chart — two peaks at the same level forming m-shape reversal",
-        "image": "/examples/double-top/PYPL_4H_2024-05-01_2024-06-01.png"
+        "image": "/examples/double-top/PYPL_4H_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "INTC",
@@ -6444,7 +6444,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Double Top pattern on INTC 1H chart — two peaks at the same level forming m-shape reversal",
-        "image": "/examples/double-top/INTC_1H_2024-06-01_2024-07-01.png"
+        "image": "/examples/double-top/INTC_1H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "WMT",
@@ -6452,7 +6452,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Double Top pattern on WMT 15m chart — two peaks at the same level forming m-shape reversal",
-        "image": "/examples/double-top/WMT_15m_2024-07-01_2024-08-01.png"
+        "image": "/examples/double-top/WMT_15m_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -6530,7 +6530,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Double Bottom pattern on WMT 1D chart — two troughs at same level forming w-shape reversal",
-        "image": "/examples/double-bottom/WMT_1D_2024-05-01_2024-06-01.png"
+        "image": "/examples/double-bottom/WMT_1D_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "HD",
@@ -6538,7 +6538,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Double Bottom pattern on HD 4H chart — two troughs at same level forming w-shape reversal",
-        "image": "/examples/double-bottom/HD_4H_2024-06-01_2024-07-01.png"
+        "image": "/examples/double-bottom/HD_4H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "AAPL",
@@ -6546,7 +6546,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Double Bottom pattern on AAPL 1H chart — two troughs at same level forming w-shape reversal",
-        "image": "/examples/double-bottom/AAPL_1H_2024-07-01_2024-08-01.png"
+        "image": "/examples/double-bottom/AAPL_1H_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -6624,7 +6624,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Triple Top pattern on MSFT 1D chart — three peaks at same resistance level",
-        "image": "/examples/triple-top/MSFT_1D_2024-06-01_2024-07-01.png"
+        "image": "/examples/triple-top/MSFT_1D_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "GOOGL",
@@ -6632,7 +6632,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Triple Top pattern on GOOGL 4H chart — three peaks at same resistance level",
-        "image": "/examples/triple-top/GOOGL_4H_2024-07-01_2024-08-01.png"
+        "image": "/examples/triple-top/GOOGL_4H_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "AMZN",
@@ -6640,7 +6640,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Triple Top pattern on AMZN 1H chart — three peaks at same resistance level",
-        "image": "/examples/triple-top/AMZN_1H_2024-08-01_2024-08-01.png"
+        "image": "/examples/triple-top/AMZN_1H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "TSLA",
@@ -6648,7 +6648,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Triple Top pattern on TSLA 15m chart — three peaks at same resistance level",
-        "image": "/examples/triple-top/TSLA_15m_2024-01-15_2024-02-01.png"
+        "image": "/examples/triple-top/TSLA_15m_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -6726,7 +6726,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Triple Bottom pattern on TSLA 1D chart — three troughs at same support level",
-        "image": "/examples/triple-bottom/TSLA_1D_2024-07-01_2024-08-01.png"
+        "image": "/examples/triple-bottom/TSLA_1D_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "NVDA",
@@ -6734,7 +6734,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Triple Bottom pattern on NVDA 4H chart — three troughs at same support level",
-        "image": "/examples/triple-bottom/NVDA_4H_2024-08-01_2024-08-01.png"
+        "image": "/examples/triple-bottom/NVDA_4H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "META",
@@ -6742,7 +6742,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Triple Bottom pattern on META 1H chart — three troughs at same support level",
-        "image": "/examples/triple-bottom/META_1H_2024-01-15_2024-02-01.png"
+        "image": "/examples/triple-bottom/META_1H_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -6820,7 +6820,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Ascending Triangle pattern on JPM 1D chart — flat resistance with rising support trendline",
-        "image": "/examples/ascending-triangle/JPM_1D_2024-08-01_2024-08-01.png"
+        "image": "/examples/ascending-triangle/JPM_1D_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "V",
@@ -6828,7 +6828,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Ascending Triangle pattern on V 4H chart — flat resistance with rising support trendline",
-        "image": "/examples/ascending-triangle/V_4H_2024-01-15_2024-02-01.png"
+        "image": "/examples/ascending-triangle/V_4H_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "DIS",
@@ -6836,7 +6836,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Ascending Triangle pattern on DIS 1H chart — flat resistance with rising support trendline",
-        "image": "/examples/ascending-triangle/DIS_1H_2024-02-01_2024-02-15.png"
+        "image": "/examples/ascending-triangle/DIS_1H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "SPY",
@@ -6844,7 +6844,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Ascending Triangle pattern on SPY 15m chart — flat resistance with rising support trendline",
-        "image": "/examples/ascending-triangle/SPY_15m_2024-02-15_2024-03-01.png"
+        "image": "/examples/ascending-triangle/SPY_15m_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -6922,7 +6922,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Descending Triangle pattern on SPY 1D chart — flat support with falling resistance trendline",
-        "image": "/examples/descending-triangle/SPY_1D_2024-01-15_2024-02-01.png"
+        "image": "/examples/descending-triangle/SPY_1D_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "QQQ",
@@ -6930,7 +6930,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Descending Triangle pattern on QQQ 4H chart — flat support with falling resistance trendline",
-        "image": "/examples/descending-triangle/QQQ_4H_2024-02-01_2024-02-15.png"
+        "image": "/examples/descending-triangle/QQQ_4H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "AMD",
@@ -6938,7 +6938,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Descending Triangle pattern on AMD 1H chart — flat support with falling resistance trendline",
-        "image": "/examples/descending-triangle/AMD_1H_2024-02-15_2024-03-01.png"
+        "image": "/examples/descending-triangle/AMD_1H_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -7015,7 +7015,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Symmetrical Triangle pattern on BA 1D chart — converging trendlines showing decreasing volatility before breakout",
-        "image": "/examples/symmetrical-triangle/BA_1D_2024-02-01_2024-02-15.png"
+        "image": "/examples/symmetrical-triangle/BA_1D_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "NFLX",
@@ -7023,7 +7023,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Symmetrical Triangle pattern on NFLX 4H chart — converging trendlines showing decreasing volatility before breakout",
-        "image": "/examples/symmetrical-triangle/NFLX_4H_2024-02-15_2024-03-01.png"
+        "image": "/examples/symmetrical-triangle/NFLX_4H_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "CRM",
@@ -7031,7 +7031,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Symmetrical Triangle pattern on CRM 1H chart — converging trendlines showing decreasing volatility before breakout",
-        "image": "/examples/symmetrical-triangle/CRM_1H_2024-03-01_2024-03-15.png"
+        "image": "/examples/symmetrical-triangle/CRM_1H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "PYPL",
@@ -7039,7 +7039,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Symmetrical Triangle pattern on PYPL 15m chart — converging trendlines showing decreasing volatility before breakout",
-        "image": "/examples/symmetrical-triangle/PYPL_15m_2024-03-15_2024-04-01.png"
+        "image": "/examples/symmetrical-triangle/PYPL_15m_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -7117,7 +7117,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Rising Wedge pattern on PYPL 1D chart — both trendlines slope up with converging angle, bearish",
-        "image": "/examples/rising-wedge/PYPL_1D_2024-02-15_2024-03-01.png"
+        "image": "/examples/rising-wedge/PYPL_1D_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "INTC",
@@ -7125,7 +7125,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Rising Wedge pattern on INTC 4H chart — both trendlines slope up with converging angle, bearish",
-        "image": "/examples/rising-wedge/INTC_4H_2024-03-01_2024-03-15.png"
+        "image": "/examples/rising-wedge/INTC_4H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "WMT",
@@ -7133,7 +7133,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Rising Wedge pattern on WMT 1H chart — both trendlines slope up with converging angle, bearish",
-        "image": "/examples/rising-wedge/WMT_1H_2024-03-15_2024-04-01.png"
+        "image": "/examples/rising-wedge/WMT_1H_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -7211,7 +7211,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Falling Wedge pattern on HD 1D chart — both trendlines slope down with converging angle, bullish",
-        "image": "/examples/falling-wedge/HD_1D_2024-03-01_2024-03-15.png"
+        "image": "/examples/falling-wedge/HD_1D_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "AAPL",
@@ -7219,7 +7219,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Falling Wedge pattern on AAPL 4H chart — both trendlines slope down with converging angle, bullish",
-        "image": "/examples/falling-wedge/AAPL_4H_2024-03-15_2024-04-01.png"
+        "image": "/examples/falling-wedge/AAPL_4H_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "MSFT",
@@ -7227,7 +7227,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Falling Wedge pattern on MSFT 1H chart — both trendlines slope down with converging angle, bullish",
-        "image": "/examples/falling-wedge/MSFT_1H_2024-04-01_2024-05-01.png"
+        "image": "/examples/falling-wedge/MSFT_1H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "GOOGL",
@@ -7235,7 +7235,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Falling Wedge pattern on GOOGL 15m chart — both trendlines slope down with converging angle, bullish",
-        "image": "/examples/falling-wedge/GOOGL_15m_2024-05-01_2024-06-01.png"
+        "image": "/examples/falling-wedge/GOOGL_15m_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -7313,7 +7313,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Bull Flag pattern on GOOGL 1D chart — brief downward-sloping channel after sharp rally",
-        "image": "/examples/bull-flag/GOOGL_1D_2024-03-15_2024-04-01.png"
+        "image": "/examples/bull-flag/GOOGL_1D_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "AMZN",
@@ -7321,7 +7321,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Bull Flag pattern on AMZN 4H chart — brief downward-sloping channel after sharp rally",
-        "image": "/examples/bull-flag/AMZN_4H_2024-04-01_2024-05-01.png"
+        "image": "/examples/bull-flag/AMZN_4H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "TSLA",
@@ -7329,7 +7329,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Bull Flag pattern on TSLA 1H chart — brief downward-sloping channel after sharp rally",
-        "image": "/examples/bull-flag/TSLA_1H_2024-05-01_2024-06-01.png"
+        "image": "/examples/bull-flag/TSLA_1H_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -7407,7 +7407,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Bear Flag pattern on NVDA 1D chart — brief upward-sloping channel after sharp decline",
-        "image": "/examples/bear-flag/NVDA_1D_2024-04-01_2024-05-01.png"
+        "image": "/examples/bear-flag/NVDA_1D_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "META",
@@ -7415,7 +7415,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Bear Flag pattern on META 4H chart — brief upward-sloping channel after sharp decline",
-        "image": "/examples/bear-flag/META_4H_2024-05-01_2024-06-01.png"
+        "image": "/examples/bear-flag/META_4H_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "JPM",
@@ -7423,7 +7423,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Bear Flag pattern on JPM 1H chart — brief upward-sloping channel after sharp decline",
-        "image": "/examples/bear-flag/JPM_1H_2024-06-01_2024-07-01.png"
+        "image": "/examples/bear-flag/JPM_1H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "V",
@@ -7431,7 +7431,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Bear Flag pattern on V 15m chart — brief upward-sloping channel after sharp decline",
-        "image": "/examples/bear-flag/V_15m_2024-07-01_2024-08-01.png"
+        "image": "/examples/bear-flag/V_15m_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -7509,7 +7509,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Bull Pennant pattern on V 1D chart — small symmetrical triangle after sharp rally",
-        "image": "/examples/bull-pennant/V_1D_2024-05-01_2024-06-01.png"
+        "image": "/examples/bull-pennant/V_1D_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "DIS",
@@ -7517,7 +7517,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Bull Pennant pattern on DIS 4H chart — small symmetrical triangle after sharp rally",
-        "image": "/examples/bull-pennant/DIS_4H_2024-06-01_2024-07-01.png"
+        "image": "/examples/bull-pennant/DIS_4H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "SPY",
@@ -7525,7 +7525,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Bull Pennant pattern on SPY 1H chart — small symmetrical triangle after sharp rally",
-        "image": "/examples/bull-pennant/SPY_1H_2024-07-01_2024-08-01.png"
+        "image": "/examples/bull-pennant/SPY_1H_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -7603,7 +7603,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Bear Pennant pattern on QQQ 1D chart — small symmetrical triangle after sharp decline",
-        "image": "/examples/bear-pennant/QQQ_1D_2024-06-01_2024-07-01.png"
+        "image": "/examples/bear-pennant/QQQ_1D_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "AMD",
@@ -7611,7 +7611,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Bear Pennant pattern on AMD 4H chart — small symmetrical triangle after sharp decline",
-        "image": "/examples/bear-pennant/AMD_4H_2024-07-01_2024-08-01.png"
+        "image": "/examples/bear-pennant/AMD_4H_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "BA",
@@ -7619,7 +7619,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Bear Pennant pattern on BA 1H chart — small symmetrical triangle after sharp decline",
-        "image": "/examples/bear-pennant/BA_1H_2024-08-01_2024-08-01.png"
+        "image": "/examples/bear-pennant/BA_1H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "NFLX",
@@ -7627,7 +7627,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Bear Pennant pattern on NFLX 15m chart — small symmetrical triangle after sharp decline",
-        "image": "/examples/bear-pennant/NFLX_15m_2024-01-15_2024-02-01.png"
+        "image": "/examples/bear-pennant/NFLX_15m_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -7705,7 +7705,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Cup and Handle pattern on NFLX 1D chart — rounded bottom with small pullback handle before breakout",
-        "image": "/examples/cup-and-handle/NFLX_1D_2024-07-01_2024-08-01.png"
+        "image": "/examples/cup-and-handle/NFLX_1D_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "CRM",
@@ -7713,7 +7713,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Cup and Handle pattern on CRM 4H chart — rounded bottom with small pullback handle before breakout",
-        "image": "/examples/cup-and-handle/CRM_4H_2024-08-01_2024-08-01.png"
+        "image": "/examples/cup-and-handle/CRM_4H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "PYPL",
@@ -7721,7 +7721,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Cup and Handle pattern on PYPL 1H chart — rounded bottom with small pullback handle before breakout",
-        "image": "/examples/cup-and-handle/PYPL_1H_2024-01-15_2024-02-01.png"
+        "image": "/examples/cup-and-handle/PYPL_1H_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -7799,7 +7799,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Inverted Cup and Handle pattern on INTC 1D chart — rounded top with small rally handle before breakdown",
-        "image": "/examples/inverted-cup-and-handle/INTC_1D_2024-08-01_2024-08-01.png"
+        "image": "/examples/inverted-cup-and-handle/INTC_1D_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "WMT",
@@ -7807,7 +7807,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Inverted Cup and Handle pattern on WMT 4H chart — rounded top with small rally handle before breakdown",
-        "image": "/examples/inverted-cup-and-handle/WMT_4H_2024-01-15_2024-02-01.png"
+        "image": "/examples/inverted-cup-and-handle/WMT_4H_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "HD",
@@ -7815,7 +7815,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Inverted Cup and Handle pattern on HD 1H chart — rounded top with small rally handle before breakdown",
-        "image": "/examples/inverted-cup-and-handle/HD_1H_2024-02-01_2024-02-15.png"
+        "image": "/examples/inverted-cup-and-handle/HD_1H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "AAPL",
@@ -7823,7 +7823,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Inverted Cup and Handle pattern on AAPL 15m chart — rounded top with small rally handle before breakdown",
-        "image": "/examples/inverted-cup-and-handle/AAPL_15m_2024-02-15_2024-03-01.png"
+        "image": "/examples/inverted-cup-and-handle/AAPL_15m_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -7901,7 +7901,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Rounding Bottom pattern on AAPL 1D chart — gradual u-shaped price curve signaling accumulation",
-        "image": "/examples/rounding-bottom/AAPL_1D_2024-01-15_2024-02-01.png"
+        "image": "/examples/rounding-bottom/AAPL_1D_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "MSFT",
@@ -7909,7 +7909,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Rounding Bottom pattern on MSFT 4H chart — gradual u-shaped price curve signaling accumulation",
-        "image": "/examples/rounding-bottom/MSFT_4H_2024-02-01_2024-02-15.png"
+        "image": "/examples/rounding-bottom/MSFT_4H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "GOOGL",
@@ -7917,7 +7917,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Rounding Bottom pattern on GOOGL 1H chart — gradual u-shaped price curve signaling accumulation",
-        "image": "/examples/rounding-bottom/GOOGL_1H_2024-02-15_2024-03-01.png"
+        "image": "/examples/rounding-bottom/GOOGL_1H_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -7995,7 +7995,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Rounding Top pattern on AMZN 1D chart — gradual inverted-u price curve signaling distribution",
-        "image": "/examples/rounding-top/AMZN_1D_2024-02-01_2024-02-15.png"
+        "image": "/examples/rounding-top/AMZN_1D_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "TSLA",
@@ -8003,7 +8003,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Rounding Top pattern on TSLA 4H chart — gradual inverted-u price curve signaling distribution",
-        "image": "/examples/rounding-top/TSLA_4H_2024-02-15_2024-03-01.png"
+        "image": "/examples/rounding-top/TSLA_4H_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "NVDA",
@@ -8011,7 +8011,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Rounding Top pattern on NVDA 1H chart — gradual inverted-u price curve signaling distribution",
-        "image": "/examples/rounding-top/NVDA_1H_2024-03-01_2024-03-15.png"
+        "image": "/examples/rounding-top/NVDA_1H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "META",
@@ -8019,7 +8019,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Rounding Top pattern on META 15m chart — gradual inverted-u price curve signaling distribution",
-        "image": "/examples/rounding-top/META_15m_2024-03-15_2024-04-01.png"
+        "image": "/examples/rounding-top/META_15m_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -8097,7 +8097,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Rectangle (Bullish) pattern on META 1D chart — horizontal consolidation in uptrend before breakout",
-        "image": "/examples/bullish-rectangle/META_1D_2024-02-15_2024-03-01.png"
+        "image": "/examples/bullish-rectangle/META_1D_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "JPM",
@@ -8105,7 +8105,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Rectangle (Bullish) pattern on JPM 4H chart — horizontal consolidation in uptrend before breakout",
-        "image": "/examples/bullish-rectangle/JPM_4H_2024-03-01_2024-03-15.png"
+        "image": "/examples/bullish-rectangle/JPM_4H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "V",
@@ -8113,7 +8113,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Rectangle (Bullish) pattern on V 1H chart — horizontal consolidation in uptrend before breakout",
-        "image": "/examples/bullish-rectangle/V_1H_2024-03-15_2024-04-01.png"
+        "image": "/examples/bullish-rectangle/V_1H_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -8191,7 +8191,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Rectangle (Bearish) pattern on DIS 1D chart — horizontal consolidation in downtrend before breakdown",
-        "image": "/examples/bearish-rectangle/DIS_1D_2024-03-01_2024-03-15.png"
+        "image": "/examples/bearish-rectangle/DIS_1D_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "SPY",
@@ -8199,7 +8199,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Rectangle (Bearish) pattern on SPY 4H chart — horizontal consolidation in downtrend before breakdown",
-        "image": "/examples/bearish-rectangle/SPY_4H_2024-03-15_2024-04-01.png"
+        "image": "/examples/bearish-rectangle/SPY_4H_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "QQQ",
@@ -8207,7 +8207,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Rectangle (Bearish) pattern on QQQ 1H chart — horizontal consolidation in downtrend before breakdown",
-        "image": "/examples/bearish-rectangle/QQQ_1H_2024-04-01_2024-05-01.png"
+        "image": "/examples/bearish-rectangle/QQQ_1H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "AMD",
@@ -8215,7 +8215,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Rectangle (Bearish) pattern on AMD 15m chart — horizontal consolidation in downtrend before breakdown",
-        "image": "/examples/bearish-rectangle/AMD_15m_2024-05-01_2024-06-01.png"
+        "image": "/examples/bearish-rectangle/AMD_15m_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -8293,7 +8293,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Channel Up pattern on AMD 1D chart — parallel ascending trendlines containing price",
-        "image": "/examples/channel-up/AMD_1D_2024-03-15_2024-04-01.png"
+        "image": "/examples/channel-up/AMD_1D_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "BA",
@@ -8301,7 +8301,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Channel Up pattern on BA 4H chart — parallel ascending trendlines containing price",
-        "image": "/examples/channel-up/BA_4H_2024-04-01_2024-05-01.png"
+        "image": "/examples/channel-up/BA_4H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "NFLX",
@@ -8309,7 +8309,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Channel Up pattern on NFLX 1H chart — parallel ascending trendlines containing price",
-        "image": "/examples/channel-up/NFLX_1H_2024-05-01_2024-06-01.png"
+        "image": "/examples/channel-up/NFLX_1H_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -8387,7 +8387,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Channel Down pattern on CRM 1D chart — parallel descending trendlines containing price",
-        "image": "/examples/channel-down/CRM_1D_2024-04-01_2024-05-01.png"
+        "image": "/examples/channel-down/CRM_1D_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "PYPL",
@@ -8395,7 +8395,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Channel Down pattern on PYPL 4H chart — parallel descending trendlines containing price",
-        "image": "/examples/channel-down/PYPL_4H_2024-05-01_2024-06-01.png"
+        "image": "/examples/channel-down/PYPL_4H_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "INTC",
@@ -8403,7 +8403,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Channel Down pattern on INTC 1H chart — parallel descending trendlines containing price",
-        "image": "/examples/channel-down/INTC_1H_2024-06-01_2024-07-01.png"
+        "image": "/examples/channel-down/INTC_1H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "WMT",
@@ -8411,7 +8411,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Channel Down pattern on WMT 15m chart — parallel descending trendlines containing price",
-        "image": "/examples/channel-down/WMT_15m_2024-07-01_2024-08-01.png"
+        "image": "/examples/channel-down/WMT_15m_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -8488,7 +8488,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Broadening Formation pattern on WMT 1D chart — expanding trendlines with higher highs and lower lows",
-        "image": "/examples/broadening-formation/WMT_1D_2024-05-01_2024-06-01.png"
+        "image": "/examples/broadening-formation/WMT_1D_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "HD",
@@ -8496,7 +8496,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Broadening Formation pattern on HD 4H chart — expanding trendlines with higher highs and lower lows",
-        "image": "/examples/broadening-formation/HD_4H_2024-06-01_2024-07-01.png"
+        "image": "/examples/broadening-formation/HD_4H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "AAPL",
@@ -8504,7 +8504,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Broadening Formation pattern on AAPL 1H chart — expanding trendlines with higher highs and lower lows",
-        "image": "/examples/broadening-formation/AAPL_1H_2024-07-01_2024-08-01.png"
+        "image": "/examples/broadening-formation/AAPL_1H_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -8582,7 +8582,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Diamond Top pattern on MSFT 1D chart — broadening pattern that contracts, forming diamond at tops",
-        "image": "/examples/diamond-top/MSFT_1D_2024-06-01_2024-07-01.png"
+        "image": "/examples/diamond-top/MSFT_1D_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "GOOGL",
@@ -8590,7 +8590,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Diamond Top pattern on GOOGL 4H chart — broadening pattern that contracts, forming diamond at tops",
-        "image": "/examples/diamond-top/GOOGL_4H_2024-07-01_2024-08-01.png"
+        "image": "/examples/diamond-top/GOOGL_4H_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "AMZN",
@@ -8598,7 +8598,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Diamond Top pattern on AMZN 1H chart — broadening pattern that contracts, forming diamond at tops",
-        "image": "/examples/diamond-top/AMZN_1H_2024-08-01_2024-08-01.png"
+        "image": "/examples/diamond-top/AMZN_1H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "TSLA",
@@ -8606,7 +8606,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Diamond Top pattern on TSLA 15m chart — broadening pattern that contracts, forming diamond at tops",
-        "image": "/examples/diamond-top/TSLA_15m_2024-01-15_2024-02-01.png"
+        "image": "/examples/diamond-top/TSLA_15m_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -8684,7 +8684,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Diamond Bottom pattern on TSLA 1D chart — broadening pattern that contracts, forming diamond at bottoms",
-        "image": "/examples/diamond-bottom/TSLA_1D_2024-07-01_2024-08-01.png"
+        "image": "/examples/diamond-bottom/TSLA_1D_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "NVDA",
@@ -8692,7 +8692,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Diamond Bottom pattern on NVDA 4H chart — broadening pattern that contracts, forming diamond at bottoms",
-        "image": "/examples/diamond-bottom/NVDA_4H_2024-08-01_2024-08-01.png"
+        "image": "/examples/diamond-bottom/NVDA_4H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "META",
@@ -8700,7 +8700,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Diamond Bottom pattern on META 1H chart — broadening pattern that contracts, forming diamond at bottoms",
-        "image": "/examples/diamond-bottom/META_1H_2024-01-15_2024-02-01.png"
+        "image": "/examples/diamond-bottom/META_1H_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -8778,7 +8778,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Bump and Run pattern on JPM 1D chart — steep advance followed by trendline break reversal",
-        "image": "/examples/bump-and-run/JPM_1D_2024-08-01_2024-08-01.png"
+        "image": "/examples/bump-and-run/JPM_1D_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "V",
@@ -8786,7 +8786,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Bump and Run pattern on V 4H chart — steep advance followed by trendline break reversal",
-        "image": "/examples/bump-and-run/V_4H_2024-01-15_2024-02-01.png"
+        "image": "/examples/bump-and-run/V_4H_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "DIS",
@@ -8794,7 +8794,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Bump and Run pattern on DIS 1H chart — steep advance followed by trendline break reversal",
-        "image": "/examples/bump-and-run/DIS_1H_2024-02-01_2024-02-15.png"
+        "image": "/examples/bump-and-run/DIS_1H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "SPY",
@@ -8802,7 +8802,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Bump and Run pattern on SPY 15m chart — steep advance followed by trendline break reversal",
-        "image": "/examples/bump-and-run/SPY_15m_2024-02-15_2024-03-01.png"
+        "image": "/examples/bump-and-run/SPY_15m_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -8880,7 +8880,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Island Reversal (Bullish) pattern on SPY 1D chart — gap-down then gap-up isolates a cluster of candles at bottom",
-        "image": "/examples/bullish-island-reversal/SPY_1D_2024-01-15_2024-02-01.png"
+        "image": "/examples/bullish-island-reversal/SPY_1D_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "QQQ",
@@ -8888,7 +8888,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Island Reversal (Bullish) pattern on QQQ 4H chart — gap-down then gap-up isolates a cluster of candles at bottom",
-        "image": "/examples/bullish-island-reversal/QQQ_4H_2024-02-01_2024-02-15.png"
+        "image": "/examples/bullish-island-reversal/QQQ_4H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "AMD",
@@ -8896,7 +8896,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Island Reversal (Bullish) pattern on AMD 1H chart — gap-down then gap-up isolates a cluster of candles at bottom",
-        "image": "/examples/bullish-island-reversal/AMD_1H_2024-02-15_2024-03-01.png"
+        "image": "/examples/bullish-island-reversal/AMD_1H_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [
@@ -8974,7 +8974,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "Island Reversal (Bearish) pattern on BA 1D chart — gap-up then gap-down isolates a cluster of candles at top",
-        "image": "/examples/bearish-island-reversal/BA_1D_2024-02-01_2024-02-15.png"
+        "image": "/examples/bearish-island-reversal/BA_1D_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "NFLX",
@@ -8982,7 +8982,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Island Reversal (Bearish) pattern on NFLX 4H chart — gap-up then gap-down isolates a cluster of candles at top",
-        "image": "/examples/bearish-island-reversal/NFLX_4H_2024-02-15_2024-03-01.png"
+        "image": "/examples/bearish-island-reversal/NFLX_4H_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "CRM",
@@ -8990,7 +8990,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Island Reversal (Bearish) pattern on CRM 1H chart — gap-up then gap-down isolates a cluster of candles at top",
-        "image": "/examples/bearish-island-reversal/CRM_1H_2024-03-01_2024-03-15.png"
+        "image": "/examples/bearish-island-reversal/CRM_1H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "PYPL",
@@ -8998,7 +8998,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Island Reversal (Bearish) pattern on PYPL 15m chart — gap-up then gap-down isolates a cluster of candles at top",
-        "image": "/examples/bearish-island-reversal/PYPL_15m_2024-03-15_2024-04-01.png"
+        "image": "/examples/bearish-island-reversal/PYPL_15m_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -9076,7 +9076,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "Measured Move Up pattern on PYPL 1D chart — two equal rallies separated by a consolidation",
-        "image": "/examples/measured-move-up/PYPL_1D_2024-02-15_2024-03-01.png"
+        "image": "/examples/measured-move-up/PYPL_1D_2024-02-15_2024-03-01.svg"
       },
       {
         "ticker": "INTC",
@@ -9084,7 +9084,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Measured Move Up pattern on INTC 4H chart — two equal rallies separated by a consolidation",
-        "image": "/examples/measured-move-up/INTC_4H_2024-03-01_2024-03-15.png"
+        "image": "/examples/measured-move-up/INTC_4H_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "WMT",
@@ -9092,7 +9092,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Measured Move Up pattern on WMT 1H chart — two equal rallies separated by a consolidation",
-        "image": "/examples/measured-move-up/WMT_1H_2024-03-15_2024-04-01.png"
+        "image": "/examples/measured-move-up/WMT_1H_2024-03-15_2024-04-01.svg"
       }
     ],
     "related_patterns": [
@@ -9170,7 +9170,7 @@
         "start": "2024-03-01",
         "end": "2024-03-15",
         "caption": "Measured Move Down pattern on HD 1D chart — two equal declines separated by a consolidation",
-        "image": "/examples/measured-move-down/HD_1D_2024-03-01_2024-03-15.png"
+        "image": "/examples/measured-move-down/HD_1D_2024-03-01_2024-03-15.svg"
       },
       {
         "ticker": "AAPL",
@@ -9178,7 +9178,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Measured Move Down pattern on AAPL 4H chart — two equal declines separated by a consolidation",
-        "image": "/examples/measured-move-down/AAPL_4H_2024-03-15_2024-04-01.png"
+        "image": "/examples/measured-move-down/AAPL_4H_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "MSFT",
@@ -9186,7 +9186,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Measured Move Down pattern on MSFT 1H chart — two equal declines separated by a consolidation",
-        "image": "/examples/measured-move-down/MSFT_1H_2024-04-01_2024-05-01.png"
+        "image": "/examples/measured-move-down/MSFT_1H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "GOOGL",
@@ -9194,7 +9194,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Measured Move Down pattern on GOOGL 15m chart — two equal declines separated by a consolidation",
-        "image": "/examples/measured-move-down/GOOGL_15m_2024-05-01_2024-06-01.png"
+        "image": "/examples/measured-move-down/GOOGL_15m_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -9272,7 +9272,7 @@
         "start": "2024-03-15",
         "end": "2024-04-01",
         "caption": "Wolfe Wave (Bullish) pattern on GOOGL 1D chart — five-wave convergence pattern targeting reversal to upper line",
-        "image": "/examples/bullish-wolfe-wave/GOOGL_1D_2024-03-15_2024-04-01.png"
+        "image": "/examples/bullish-wolfe-wave/GOOGL_1D_2024-03-15_2024-04-01.svg"
       },
       {
         "ticker": "AMZN",
@@ -9280,7 +9280,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Wolfe Wave (Bullish) pattern on AMZN 4H chart — five-wave convergence pattern targeting reversal to upper line",
-        "image": "/examples/bullish-wolfe-wave/AMZN_4H_2024-04-01_2024-05-01.png"
+        "image": "/examples/bullish-wolfe-wave/AMZN_4H_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "TSLA",
@@ -9288,7 +9288,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Wolfe Wave (Bullish) pattern on TSLA 1H chart — five-wave convergence pattern targeting reversal to upper line",
-        "image": "/examples/bullish-wolfe-wave/TSLA_1H_2024-05-01_2024-06-01.png"
+        "image": "/examples/bullish-wolfe-wave/TSLA_1H_2024-05-01_2024-06-01.svg"
       }
     ],
     "related_patterns": [
@@ -9366,7 +9366,7 @@
         "start": "2024-04-01",
         "end": "2024-05-01",
         "caption": "Wolfe Wave (Bearish) pattern on NVDA 1D chart — five-wave convergence pattern targeting reversal to lower line",
-        "image": "/examples/bearish-wolfe-wave/NVDA_1D_2024-04-01_2024-05-01.png"
+        "image": "/examples/bearish-wolfe-wave/NVDA_1D_2024-04-01_2024-05-01.svg"
       },
       {
         "ticker": "META",
@@ -9374,7 +9374,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Wolfe Wave (Bearish) pattern on META 4H chart — five-wave convergence pattern targeting reversal to lower line",
-        "image": "/examples/bearish-wolfe-wave/META_4H_2024-05-01_2024-06-01.png"
+        "image": "/examples/bearish-wolfe-wave/META_4H_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "JPM",
@@ -9382,7 +9382,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Wolfe Wave (Bearish) pattern on JPM 1H chart — five-wave convergence pattern targeting reversal to lower line",
-        "image": "/examples/bearish-wolfe-wave/JPM_1H_2024-06-01_2024-07-01.png"
+        "image": "/examples/bearish-wolfe-wave/JPM_1H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "V",
@@ -9390,7 +9390,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Wolfe Wave (Bearish) pattern on V 15m chart — five-wave convergence pattern targeting reversal to lower line",
-        "image": "/examples/bearish-wolfe-wave/V_15m_2024-07-01_2024-08-01.png"
+        "image": "/examples/bearish-wolfe-wave/V_15m_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -9468,7 +9468,7 @@
         "start": "2024-05-01",
         "end": "2024-06-01",
         "caption": "Three Drives (Bullish) pattern on V 1D chart — three symmetrical pushes to a low with harmonic ratios",
-        "image": "/examples/bullish-three-drives/V_1D_2024-05-01_2024-06-01.png"
+        "image": "/examples/bullish-three-drives/V_1D_2024-05-01_2024-06-01.svg"
       },
       {
         "ticker": "DIS",
@@ -9476,7 +9476,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Three Drives (Bullish) pattern on DIS 4H chart — three symmetrical pushes to a low with harmonic ratios",
-        "image": "/examples/bullish-three-drives/DIS_4H_2024-06-01_2024-07-01.png"
+        "image": "/examples/bullish-three-drives/DIS_4H_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "SPY",
@@ -9484,7 +9484,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Three Drives (Bullish) pattern on SPY 1H chart — three symmetrical pushes to a low with harmonic ratios",
-        "image": "/examples/bullish-three-drives/SPY_1H_2024-07-01_2024-08-01.png"
+        "image": "/examples/bullish-three-drives/SPY_1H_2024-07-01_2024-08-01.svg"
       }
     ],
     "related_patterns": [
@@ -9562,7 +9562,7 @@
         "start": "2024-06-01",
         "end": "2024-07-01",
         "caption": "Three Drives (Bearish) pattern on QQQ 1D chart — three symmetrical pushes to a high with harmonic ratios",
-        "image": "/examples/bearish-three-drives/QQQ_1D_2024-06-01_2024-07-01.png"
+        "image": "/examples/bearish-three-drives/QQQ_1D_2024-06-01_2024-07-01.svg"
       },
       {
         "ticker": "AMD",
@@ -9570,7 +9570,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "Three Drives (Bearish) pattern on AMD 4H chart — three symmetrical pushes to a high with harmonic ratios",
-        "image": "/examples/bearish-three-drives/AMD_4H_2024-07-01_2024-08-01.png"
+        "image": "/examples/bearish-three-drives/AMD_4H_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "BA",
@@ -9578,7 +9578,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "Three Drives (Bearish) pattern on BA 1H chart — three symmetrical pushes to a high with harmonic ratios",
-        "image": "/examples/bearish-three-drives/BA_1H_2024-08-01_2024-08-01.png"
+        "image": "/examples/bearish-three-drives/BA_1H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "NFLX",
@@ -9586,7 +9586,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "Three Drives (Bearish) pattern on NFLX 15m chart — three symmetrical pushes to a high with harmonic ratios",
-        "image": "/examples/bearish-three-drives/NFLX_15m_2024-01-15_2024-02-01.png"
+        "image": "/examples/bearish-three-drives/NFLX_15m_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -9664,7 +9664,7 @@
         "start": "2024-07-01",
         "end": "2024-08-01",
         "caption": "ABCD (Bullish) pattern on NFLX 1D chart — four-point pattern with two equal legs and fibonacci ratios",
-        "image": "/examples/bullish-abcd/NFLX_1D_2024-07-01_2024-08-01.png"
+        "image": "/examples/bullish-abcd/NFLX_1D_2024-07-01_2024-08-01.svg"
       },
       {
         "ticker": "CRM",
@@ -9672,7 +9672,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "ABCD (Bullish) pattern on CRM 4H chart — four-point pattern with two equal legs and fibonacci ratios",
-        "image": "/examples/bullish-abcd/CRM_4H_2024-08-01_2024-08-01.png"
+        "image": "/examples/bullish-abcd/CRM_4H_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "PYPL",
@@ -9680,7 +9680,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "ABCD (Bullish) pattern on PYPL 1H chart — four-point pattern with two equal legs and fibonacci ratios",
-        "image": "/examples/bullish-abcd/PYPL_1H_2024-01-15_2024-02-01.png"
+        "image": "/examples/bullish-abcd/PYPL_1H_2024-01-15_2024-02-01.svg"
       }
     ],
     "related_patterns": [
@@ -9758,7 +9758,7 @@
         "start": "2024-08-01",
         "end": "2024-08-01",
         "caption": "ABCD (Bearish) pattern on INTC 1D chart — four-point pattern with two equal legs and fibonacci ratios",
-        "image": "/examples/bearish-abcd/INTC_1D_2024-08-01_2024-08-01.png"
+        "image": "/examples/bearish-abcd/INTC_1D_2024-08-01_2024-08-01.svg"
       },
       {
         "ticker": "WMT",
@@ -9766,7 +9766,7 @@
         "start": "2024-01-15",
         "end": "2024-02-01",
         "caption": "ABCD (Bearish) pattern on WMT 4H chart — four-point pattern with two equal legs and fibonacci ratios",
-        "image": "/examples/bearish-abcd/WMT_4H_2024-01-15_2024-02-01.png"
+        "image": "/examples/bearish-abcd/WMT_4H_2024-01-15_2024-02-01.svg"
       },
       {
         "ticker": "HD",
@@ -9774,7 +9774,7 @@
         "start": "2024-02-01",
         "end": "2024-02-15",
         "caption": "ABCD (Bearish) pattern on HD 1H chart — four-point pattern with two equal legs and fibonacci ratios",
-        "image": "/examples/bearish-abcd/HD_1H_2024-02-01_2024-02-15.png"
+        "image": "/examples/bearish-abcd/HD_1H_2024-02-01_2024-02-15.svg"
       },
       {
         "ticker": "AAPL",
@@ -9782,7 +9782,7 @@
         "start": "2024-02-15",
         "end": "2024-03-01",
         "caption": "ABCD (Bearish) pattern on AAPL 15m chart — four-point pattern with two equal legs and fibonacci ratios",
-        "image": "/examples/bearish-abcd/AAPL_15m_2024-02-15_2024-03-01.png"
+        "image": "/examples/bearish-abcd/AAPL_15m_2024-02-15_2024-03-01.svg"
       }
     ],
     "related_patterns": [

@@ -85,7 +85,7 @@ def plot_candlestick(df, title, filepath, figsize=(8, 4)):
     ax2.set_ylabel('Vol', color='#4b5563', fontsize=7)
 
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
-    plt.savefig(filepath, dpi=150, bbox_inches='tight', facecolor='#0a0f1a')
+    plt.savefig(filepath, format='svg', bbox_inches='tight', facecolor='#0a0f1a')
     plt.close()
 
 def main():
@@ -106,7 +106,7 @@ def main():
             start = ex.get('start', '')
             end = ex.get('end', '')
             
-            filename = f"{ticker}_{tf}_{start}_{end}.png"
+            filename = f"{ticker}_{tf}_{start}_{end}.svg"
             filepath = os.path.join(OUTPUT_DIR, slug, filename)
 
             if use_real:
