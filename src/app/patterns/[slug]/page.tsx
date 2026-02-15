@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import { Metadata } from 'next';
 import Link from 'next/link';
 import patterns from '@/data/patterns.json';
@@ -146,8 +147,14 @@ export default async function PatternPage({ params }: { params: Promise<{ slug: 
                                         <span className="text-sm font-semibold text-white">{ex.ticker}</span>
                                         <span className="text-xs text-gray-500">{ex.timeframe} · {ex.start} → {ex.end}</span>
                                     </div>
-                                    <div className="aspect-video bg-gray-900 rounded-lg flex items-center justify-center mb-2 border border-gray-700/20">
-                                        <span className="text-gray-600 text-xs text-center px-4">Chart: {ex.ticker} {ex.timeframe}<br />Run pipeline to generate</span>
+                                    <div className="aspect-video bg-gray-900 rounded-lg relative overflow-hidden group mb-2 border border-gray-700/20">
+                                        <Image
+                                            src={ex.image}
+                                            alt={ex.caption}
+                                            fill
+                                            className="object-contain p-2 group-hover:scale-105 transition-transform duration-300"
+                                            unoptimized
+                                        />
                                     </div>
                                     <p className="text-xs text-gray-400">{ex.caption}</p>
                                 </div>
