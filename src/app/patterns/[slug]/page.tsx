@@ -68,6 +68,9 @@ export default async function PatternPage({ params }: { params: Promise<{ slug: 
                             alt={`${p.name} example chart`}
                             className="w-full h-full object-contain p-2"
                         />
+                        <div className="absolute bottom-0 left-0 bg-black/50 text-xs text-white p-1">
+                            Debug: <a href={`${BASE}${p.examples[0].image}`} target="_blank" className="underline">Open Image</a>
+                        </div>
                     </div>
                 )}
             </div>
@@ -158,12 +161,15 @@ export default async function PatternPage({ params }: { params: Promise<{ slug: 
                                         <span className="text-sm font-semibold text-white">{ex.ticker}</span>
                                         <span className="text-xs text-gray-500">{ex.timeframe} · {ex.start} → {ex.end}</span>
                                     </div>
-                                    <div className="aspect-video bg-gray-900 rounded-lg overflow-hidden group mb-2 border border-gray-700/20">
+                                    <div className="aspect-video bg-gray-900 rounded-lg overflow-hidden group mb-2 border border-gray-700/20 relative">
                                         <img
                                             src={`${BASE}${ex.image}`}
                                             alt={ex.caption}
                                             className="w-full h-full object-contain p-2 group-hover:scale-105 transition-transform duration-300"
                                         />
+                                        <div className="absolute bottom-0 right-0 bg-black/50 text-[10px] text-white p-1">
+                                            <a href={`${BASE}${ex.image}`} target="_blank" className="underline hover:text-blue-400">Open Chart</a>
+                                        </div>
                                     </div>
                                     <p className="text-xs text-gray-400">{ex.caption}</p>
                                 </div>
