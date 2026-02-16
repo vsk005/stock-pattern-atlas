@@ -1,4 +1,4 @@
-import Image from 'next/image';
+const BASE = '/stock-pattern-atlas';
 import { Metadata } from 'next';
 import Link from 'next/link';
 import patterns from '@/data/patterns.json';
@@ -62,13 +62,11 @@ export default async function PatternPage({ params }: { params: Promise<{ slug: 
                     <p className="text-lg text-gray-400">{p.short_description}</p>
                 </div>
                 {p.examples?.[0]?.image && (
-                    <div className="aspect-video relative rounded-xl overflow-hidden border border-gray-700/30 shadow-2xl bg-gray-900 group">
-                        <Image
-                            src={p.examples[0].image}
+                    <div className="aspect-video rounded-xl overflow-hidden border border-gray-700/30 shadow-2xl bg-gray-900">
+                        <img
+                            src={`${BASE}${p.examples[0].image}`}
                             alt={`${p.name} example chart`}
-                            fill
-                            className="object-contain p-2"
-                            unoptimized
+                            className="w-full h-full object-contain p-2"
                         />
                     </div>
                 )}
@@ -160,13 +158,11 @@ export default async function PatternPage({ params }: { params: Promise<{ slug: 
                                         <span className="text-sm font-semibold text-white">{ex.ticker}</span>
                                         <span className="text-xs text-gray-500">{ex.timeframe} · {ex.start} → {ex.end}</span>
                                     </div>
-                                    <div className="aspect-video bg-gray-900 rounded-lg relative overflow-hidden group mb-2 border border-gray-700/20">
-                                        <Image
-                                            src={ex.image}
+                                    <div className="aspect-video bg-gray-900 rounded-lg overflow-hidden group mb-2 border border-gray-700/20">
+                                        <img
+                                            src={`${BASE}${ex.image}`}
                                             alt={ex.caption}
-                                            fill
-                                            className="object-contain p-2 group-hover:scale-105 transition-transform duration-300"
-                                            unoptimized
+                                            className="w-full h-full object-contain p-2 group-hover:scale-105 transition-transform duration-300"
                                         />
                                     </div>
                                     <p className="text-xs text-gray-400">{ex.caption}</p>
